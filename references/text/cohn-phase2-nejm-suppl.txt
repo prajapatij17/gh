@@ -1,0 +1,477 @@
+Supplementary Appendix
+Supplement to: Cohn DM, Gurugama P, Magerl M, et al. CRISPR-based therapy for hereditary angioedema. N Engl 
+J Med. DOI: 10.1056/NEJMoa2405734
+This appendix has been provided by the authors to give readers additional information about the work.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+1
+SUPPLEMENTARY APPENDIX
+CRISPR-Based Therapy for Hereditary Angioedema
+Cohn, et al
+Table of Contents Page
+Sub-Principal Investigators and Study-Site Coordinators 2
+Author Contributions 3
+Supplementary Methods
+Screening 4
+Concomitant Medications 4
+Supplementary Statistical Analysis 4
+Supplementary Results
+Pharmacokinetics 5
+Phase 1 Update 5
+Figure S1. CONSORT Diagram. 6
+Figure S2. Mean Number of Investigator-Confirmed Angioedema Attacks per Month over Time. 7
+Figure S3. Responder Status. 8
+Figure S4. Pharmacokinetics of NTLA-2002 Analytes. 9
+Figure S5. Mean Change in AE-QoL Scores. 10
+Figure S6. Mean Number of Investigator-Confirmed Angioedema Attacks per Month over Time 
+in the Phase 1 Study.
+11
+Figure S7. Angioedema Attacks before and after the Infusion of NTLA-2002 in the Phase 1 
+Study.
+12
+Figure S8. Change from Baseline in Total Plasma Kallikrein Protein Levels over Time by Dose 
+Level in the Phase 1 Study.
+13
+Table S1. Representativeness of Study Patients. 14
+Table S2. Change from Baseline in Number of Investigator-Confirmed Attacks per Month. 15
+Table S3. Mean Number of Investigator-Confirmed Attacks per Month Requiring Acute 
+Therapy or of Moderate to Severe Intensity.
+15
+Table S4. Summary of Infusion-Related Reactions. 16
+Table S5. Change from Baseline in Number of Investigator-Confirmed Attacks per Month in the 
+Phase 1 Study.
+16
+Table S6. Adverse Events after the Administration of NTLA-2002 in the Phase 1 Study. 17
+Supplementary References 18
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+2
+Sub-Principal Investigators and Study-Site Coordinators
+Site Principal
+Investigator
+Name Role Site Location
+Constance H. Katelaris Joshua Jacob Sub-investigator Australia
+Karuna Keat Sub-investigator Australia
+Pamela Burton Site coordinator Australia
+Laurence Bouillet Alexis Bocquet Sub-investigator France
+Bruna Ducotterd Site coordinator France
+Caroline Nakowski Sub-investigator France
+Catherine Mansard Sub-investigator France
+Isabelle Boccon-Gibod Sub-investigator France
+Mélanie Arnaud Site coordinator France
+Thuy Nguyen Site coordinator France
+David Launay Dominique Deplanque Sub-investigator France
+Jessica Gouno Site coordinator France
+Juliette De Langhe Site coordinator France
+Maria-Claire Migaud Sub-investigator France
+Sebastien Sanges Sub-investigator France
+Stephanie Somers Site coordinator France
+Theo Pamart Site coordinator France
+Markus Magerl Heide Mundt Site coordinator Germany
+Aiste Ramanauskaite Sub-investigator Germany
+Carolina Elisa Vera Ayala Sub-investigator Germany
+Loredana Perretta Site coordinator Germany
+Marcus Maurer Sub-investigator Germany
+Stefanie Dittmann Site coordinator Germany
+Thomas Buttgereit Sub-investigator Germany
+Ulrika Nordenhake Site coordinator Germany
+Pia Dietrich Site coordinator Germany
+Emel Aygören-Pürsün Shimalee Andarawewa Sub-investigator Germany
+Stefanie Klein Site coordinator Germany
+Timm Höres Sub-investigator Germany
+Danny M. Cohn Daniela Stols-Goncalves Sub-investigator Netherlands
+Diona Zwirs Site coordinator Netherlands
+Eva van Reenen Site coordinator Netherlands
+Henriette Jagt van der Scheer Site coordinator Netherlands
+Liesbeth van Huizen Site coordinator Netherlands
+Linda Landman Site coordinator Netherlands
+Marianne Cammenga Site coordinator Netherlands
+Nanet Sons Site coordinator Netherlands
+Petra Zweers Site coordinator Netherlands
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+3
+Renee de Meijer Site coordinator Netherlands
+Sandra Bruin Site coordinator Netherlands
+Willemijn Schonk Sub-investigator Netherlands
+Hilary J. Longhurst Ivonne Houtman Site coordinator New Zealand
+Caroline Allan Sub-investigator New Zealand
+Christian Schwabe Sub-investigator New Zealand
+Desmond Lim Sub-investigator New Zealand
+Dmitry Popov Site Coordinator New Zealand
+Hannah Woo Sub-investigator New Zealand
+Joshua Donald Site coordinator New Zealand
+Laura Elliott Sub-investigator New Zealand
+Leanne Barnett Sub-investigator New Zealand
+Millie Wang Sub-investigator New Zealand
+Oliver Wood Site coordinator New Zealand
+Olivia Dempster Site coordinator New Zealand
+Rohit Katial Sub-investigator New Zealand
+Sara Liu Site coordinator New Zealand
+Rose Falconer Sub-investigator New Zealand
+Ryan Kidd Site coordinator New Zealand
+Sophie Stevenson Sub-investigator New Zealand
+Susanna Abigail Sub-investigator New Zealand
+Thomas Russell Sub-investigator New Zealand
+Teri Hodgson Site coordinator New Zealand
+Padmalal Gurugama Jacqui Galloway Site coordinator United Kingdom
+Lisa Shen Sub-investigator United Kingdom
+Robert Yellon Sub-investigator United Kingdom
+Ross Beech Site coordinator United Kingdom
+Usmaan Ahmed Sub-investigator United Kingdom
+Author Contributions
+DM, JSB, DLe, and HJL were involved in study conception and design. DMC, PG, MM, CHK, DLa, LB, 
+RSP, KL, EAP, DM, MYS, AG, YX, AMA, and HJL were involved in data collection. DM, JSB, MYS, 
+AG, YX, and AMA analyzed the data. DMC, PG, MM, CHK, DLa, LB, RSP, KL, EAP, and HJL were 
+investigators for the study. The first draft of the manuscript was written by Justine Lempart, PhD, and 
+James Banigan, PhD, employees of Apollo Medical Communications, part of the Helios Global Group 
+(funded by Intellia Therapeutics), and MYS. All authors contributed to the data interpretation, review, 
+editing, and approval of the manuscript for publication, and participated in the decision to submit for 
+publication. All authors assume responsibility for the completeness and accuracy of the data, the fidelity 
+of the trial and this manuscript, the protocol (available at NEJM.org), and the statistical analysis plan. All 
+authors had access to all data in the study and agreed to maintain confidentiality of the data during 
+manuscript development.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+4
+SUPPLEMENTARY METHODS
+Screening
+At screening, patients were asked, “What was your sex (at birth)?” Options were male or female. No 
+patients identified as Hispanic or Latino. Patients were asked, “Do you consider yourself Hispanic/Latino 
+or not Hispanic/Latino?” Options were Hispanic/Latino; not Hispanic/Latino; not reported; unknown. 
+Twenty-six patients identified as White or Caucasian, and one patient identified as Native Hawaiian or 
+other Pacific Islander. Patients were asked, “Which of the following designations best describe you (more
+than one choice is acceptable)?” Options were American Indian or Alaska Native; Asian; Black or 
+African American; Native Hawaiian or other Pacific Islander; White or Caucasian; not reported; 
+unknown.
+Concomitant Medications
+Patients were permitted to use on-demand medications to treat angioedema attacks during the study. The 
+following medications were prohibited during the screening and 16-week primary observation period: 
+kallikrein B1 (KLKB1) targeted therapies, including antisense oligonucleotides, prekallikrein, and/or 
+kallikrein-lowering therapies; ecallantide; attenuated androgens and berotralstat; lanadelumab; anti￾fibrinolytics; any other therapy intended for long-term prophylaxis (prevention) of hereditary angioedema 
+(HAE) attacks; chronic antithrombotic therapy; ACE inhibitors; and estrogen-containing medications with 
+systemic absorption. Following the 16-week primary observation period, patients were permitted to 
+initiate other therapy to manage their HAE at the discretion of the investigator.
+Supplementary Statistical Analysis 
+Pharmacodynamic analyses included all patients in the safety set in whom the total plasma kallikrein 
+protein level was measured at least once before and at least once after the administration of study drug. 
+Pharmacokinetic analyses included patients in the safety set who had at least one blood sample in which 
+concentrations of any of the four plasma analytes of NTLA-2002 could be evaluated. Patient-reported 
+outcome end point analyses were performed in the full analysis set. For angioedema attack–related end 
+points, the 95% CIs were reported for model-based estimates, mean and standard error were presented for 
+the descriptive summary; for all other end points, descriptive statistics (n, mean, median, standard 
+deviation, minimum, maximum) were used in summarizing the data.
+The primary end point of number of angioedema attacks per month during the 16-week primary 
+observation period was compared between NTLA-2002 and placebo using a negative binominal 
+regression model adjusting for baseline attack rate. The model included the treatment arm and the 
+baseline attack rate as independent variables. The logarithm of follow-up duration (in months) for each 
+patient during the primary observation period was included in the model as an offset variable to adjust for 
+differences in follow-up time. From this model, the least squares mean attack rate and the corresponding 
+95% CI for each treatment arm as well as the mean rate ratio and the corresponding 95% CI for 
+NTLA-2002 relative to placebo were estimated. These estimates were reported as mean angioedema 
+attack rates per month by transforming the estimates using the exponential function. Missing data were 
+assumed to be missing at random in this analysis. Patients who did not have a week 16 assessment at the 
+time of the analysis had the time-adjusted attack rate included in the analysis. Pearson Chi-square test was 
+performed to assess goodness of fit of the model, and the dispersion coefficient estimate from the model 
+was examined for overdispersion of the data.
+The angioedema attack–related secondary end points were analyzed using the same model approach 
+as the primary end point. The angioedema attack rate and percentage change from baseline were also 
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+5
+summarized descriptively for all angioedema attack–related end points. Total plasma kallikrein protein 
+level values and percentage change from baseline at each assessment were summarized descriptively. 
+Absolute change in the AE-QoL scores from baseline at each scheduled post-baseline visit was
+summarized descriptively.
+Additional details are in the statistical analysis plan.
+SUPPLEMENTARY RESULTS
+Pharmacokinetics
+Following NTLA-2002 administration, all four analytes demonstrated a dose-proportional plasma 
+exposure (Fig. S4). NTLA-2002 analytes rapidly declined from peak concentrations, followed by a 
+secondary peak at approximately 12 hours post infusion, and then a log-linear elimination phase. All 
+analytes, except DMG-PEG2k (biodegradable by design)1 were quantifiable in plasma up to 29 days post
+infusion. DMG-PEG2k declined to below quantification limits within approximately 24 hours post end of 
+infusion.
+Phase 1 Update
+Baseline characteristics were reported previously.2 In brief, the median age was 51 (range, 26 to 73) 
+years, 60% were male, and the median number of angioedema attacks during the 90 days before screening 
+was 6 (range, 3 to 54).
+Between the end of the primary 16-week observation period and the latest assessment (week 104, 
+25 mg; week 72, 50 mg; week 88, 75 mg) the mean percentage change from baseline in monthly 
+angioedema attack rate was −99%, −100%, and −100% in the 25-mg, 50-mg, and 75-mg arms (Table S5,
+Fig. S6). The mean percentage change in monthly angioedema attack rate between baseline and the latest 
+assessment was −97%, −100%, and −97% in the 25-mg, 50-mg, and 75-mg arms. Eight patients remain 
+attack-free since the end of the primary observation period (Fig. S7). None of the six patients who 
+stopped their long-term prophylaxis after administration of NTLA-2002 have resumed, and five reported 
+no attacks since withdrawal. 
+NTLA-2002-treated patients continued to show a low rate of adverse events (AEs) (Table S6). No 
+dose-limiting toxic effects, serious AEs, or AEs of grade 3 or higher occurred after administration of 
+NTLA-2002. The most common AEs were infusion-related reactions (70%), COVID-19 (60%), fatigue 
+(60%), and upper respiratory tract infection (50%). 
+Dose-dependent reductions in the total plasma kallikrein protein levels were sustained, with a mean 
+(SD) percentage change from baseline to the latest assessment of −70% (21.4), −88% (6.8), and −95% 
+(1.1) in the 25-mg, 50-mg, and 75-mg arms, respectively (Fig. S8).
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+6
+Figure S1. CONSORT Diagram.
+Flowchart of screening, enrollment, and allocation of patients in the phase 2 portion of the phase 1–2 
+study (NCT05120830) of NTLA-2002 vs. placebo in patients with hereditary angioedema. 
+*Patients were required to meet laboratory inclusion criteria during screening, including aspartate aminotransferase, 
+alanine aminotransferase, and total bilirubin less than or equal to the upper limit of normal range.
+†One patient was exposed to angiotensin-converting enzyme inhibitors or any estrogen-containing medications with 
+systemic absorption within 90 days prior to study drug administration. One patient used antithrombotic therapy 
+(other than aspirin) within 14 days prior to study drug administration. One patient had laboratory abnormality, 
+psycho-social stressor, pattern of behavior, or other reason that, in the Investigator’s opinion, could adversely affect 
+the safety of the subject, impair the assessment of study results, or preclude compliance with the study.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+7
+Figure S2. Mean Number of Investigator-Confirmed Angioedema Attacks per Month over Time.
+The monthly angioedema attack rate is calculated as the number of angioedema attacks that occurred 
+during each 28-day interval, with the date of NTLA-2002 or placebo administration as the start of the first 
+interval. Error bars indicate standard error. Patients were required to withdraw long-term prophylaxis 
+prior to study entry but were permitted to resume any long-term prophylaxis after the end of the primary 
+observation period at week 16 (month 4). Re-introduction of long-term prophylaxis in four of the five 
+patients in the placebo arm who had reached the week 16 visit is likely contributing to the decrease in the 
+attack rate after month 4 in the placebo arm. For post-baseline assessments, only visits completed by at 
+least three patients in each arm are presented in the figure. BL, baseline; HAE, hereditary angioedema.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+8
+Figure S3. Responder Status.
+Investigator-confirmed angioedema attack response status during the 16-week primary observation 
+period. Response status is defined as the patients’ monthly attack rate reduction from baseline of at least 
+50%, 70%, 90%, and 100% (attack-free). HAE, hereditary angioedema.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+9
+Figure S4. Pharmacokinetics of NTLA-2002 Analytes.
+Data shown are mean geometric values (semi-log scale) of NTLA-2002 analytes post end of NTLA-2002
+infusion: (A) DMG-PEG2k, (B) LP000001, (C) Cas9 mRNA, and (D) KLKB1 sgRNA.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+10
+Figure S5. Mean Change in AE-QoL Scores.
+Data shown are the mean (SD) change from baseline at week 16 in the total AE-QoL score and AE-QoL 
+scores of functioning, fatigue/mood, fear/shame, and nutrition. Only patients with both baseline and week 
+16 AE-QoL assessments were included in the analysis. The dashed line represents the total score minimal 
+clinically important difference of 6 points.3
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+11
+Figure S6. Mean Number of Investigator-Confirmed Angioedema Attacks per Month over Time in 
+the Phase 1 Study.
+The monthly angioedema attack rate is calculated as the number of angioedema attacks that occurred 
+during each 28-day interval, with the date of NTLA-2002 administration as the start of the first interval. 
+Error bars indicate SD. Patients were permitted to use concomitant long-term prophylaxis and withdraw it 
+at their discretion.
+2 BL, baseline, HAE, hereditary angioedema.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+12
+Figure S7. Angioedema Attacks before and after the Infusion of NTLA-2002 in the Phase 1 Study.
+Each row shows individual patient data on angioedema attacks; the number of attacks per month in each 
+patient during the historical attack period (defined as the 90-day period before the screening period) is 
+also shown. Patient data are listed from top to bottom according to the length of follow-up. The length of 
+the gray bars indicates the interval from the start of the screening period to the last assessment as of the 
+data cutoff date. Arrows indicate that the patient is still on study. The width of the colored bars indicates 
+the duration of an attack. Black triangles indicate the time of withdrawal of any concomitant long-term 
+prophylaxis. Patients without black triangles were not receiving concomitant long-term prophylaxis. 
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+13
+Figure S8. Change from Baseline in Total Plasma Kallikrein Protein Levels over Time by Dose 
+Level in the Phase 1 Study.
+Shown is the mean percentage change from baseline in the total plasma kallikrein protein level in each 
+dose cohort. Error bars indicate SD. The dashed line represents the targeted minimum reduction. Only 
+visits completed by all patients within a cohort are presented. BL, baseline.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+14
+Table S1. Representativeness of Study Patients.
+Category 
+Disease under 
+investigation 
+Hereditary angioedema due to C1INH deficiency (HAE-C1INH)
+Special considerations related to: 
+Sex and gender Males and females are affected equally at the genetic level. Symptoms are sometimes more 
+severe in female patients, possibly due to fluctuation in female sex hormones, and this may 
+contribute to a slightly higher likelihood of diagnosis. 
+Age HAE is an autosomal dominant genetic disease; therefore, all patients who are affected have 
+the disease from birth. The age at which attacks begin is variable, but in most patients, the 
+disease presents in childhood or adolescence. Patients will continue to have attacks throughout 
+their lifetime. 
+Race or ethnic 
+group 
+There are no known differences in prevalence, disease pathophysiology, or responses to 
+treatment among racial or ethnic groups. 
+Geography There are no known differences in prevalence in different countries. However, HAE is a rare 
+disease (1:50,000 population) but shares symptoms with other more common diseases. This 
+may contribute to patients being misdiagnosed or underdiagnosed in developing countries or 
+countries that lack access to diagnostic tests and evidence-based therapies. 
+Other considerations There are two main types of HAE: HAE-C1INH-Type 1 (≈85% of patients) and HAE-C1INH￾Type 2 (≈15% of patients). Attacks most often affect the skin, gastrointestinal tract, and upper 
+airway. The frequency and severity of attacks is highly variable across patients. 
+Overall 
+representativeness 
+of this study
+This was a small phase 2 study of 27 adult patients with HAE-C1INH. The age distribution of 
+study patients was consistent with what is observed in adults with HAE-C1INH. There was a 
+slightly higher number of men than women. Participants were representative of patient 
+populations in countries with study sites, which have predominantly White or Caucasian 
+populations: Australia, France, Germany, the Netherlands, New Zealand, and the United 
+Kingdom. The number of patients with HAE-C1INH-Type 1 and HAE-C1INH-Type 2 disease 
+was representative of the overall HAE-C1INH population. Patients also had varying types, 
+frequency, and severity of HAE attacks, which is typical in patients with HAE.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+15
+Table S2. Change from Baseline in Number of Investigator-Confirmed Attacks per Month.* 
+Variable
+NTLA-2002 25 mg
+(N=10)
+NTLA-2002 50 mg
+(N=11)
+Placebo
+(N=6)
+Percentage change from baseline in no. of attacks per month
+Weeks 1 to 16 −78.1±30.4 −79.5±42.0 −16.3±41.6
+Weeks 5 to 16 −79.9±28.9 −81.3±38.8 −3.4±55.8
+Percentage change from baseline in no. of attacks per month requiring on-demand treatment
+Weeks 1 to 16 −79.7±27.2 −73.8±63.7 −15.2±46.9
+Weeks 5 to 16 −72.8±28.3 −74.0±63.3 −11.7±58.5
+Percentage change from baseline in no. of moderate to severe attacks per month
+Weeks 1 to 16 –73.9±42.7 –82.8±35.6 –20.7±57.8
+Weeks 5 to 16 –72.8±49.7 –87.6±26.4 –19.6±63.4
+*Plus–minus values denote means ±SD. Baseline was defined as the time from the date of informed consent to 
+randomization.
+Table S3. Mean Number of Investigator-Confirmed Attacks per Month Requiring Acute Therapy 
+or of Moderate to Severe Intensity. 
+Variable
+NTLA-2002 25 mg
+(N=10)
+NTLA-2002 50 mg
+(N=11)
+Placebo 
+(N=6)
+Angioedema attacks requiring acute therapy 
+Weeks 1 to 16
+Mean no. of angioedema 
+attacks per month (95% CI)*
+0.63 (0.21, 1.94) 0.55 (0.18, 1.66) 2.39 (0.60, 9.44)
+Percentage difference vs.
+placebo (95% CI)
+−74% (−95%, 51%) −77% (−96%, 39%)
+Weeks 5 to 16
+Mean no. of angioedema 
+attacks per month (95% CI)*
+0.60 (0.18, 1.97) 0.53 (0.16, 1.72) 2.58 (0.61, 10.88)
+Percentage difference vs.
+placebo (95% CI)
+−77% (−96%, 46%) −79% (−97%, 37%)
+Moderate to severe angioedema attacks
+Weeks 1 to 16
+Mean no. of angioedema 
+attacks per month (95% CI)*
+0.45 (0.14, 1.39) 0.32 (0.10, 0.97) 2.05 (0.54, 7.87)
+Percentage difference vs.
+placebo (95% CI)
+−78% (−96%, 26%) −85% (−97%, −11%)
+Weeks 5 to 16 
+Mean no. of angioedema 
+attacks per month (95% CI)*
+0.41 (0.11, 1.56) 0.23 (0.06, 0.91) 2.12 (0.45, 9.87)
+Percentage difference vs.
+placebo (95% CI)
+−80% (−97%, 50%) −89% (−99%, −14%)
+*The mean number of angioedema attacks per month was estimated using a negative binomial model with treatment 
+arm and baseline attack rate as independent variables. Baseline is defined as the time from date of informed consent 
+to randomization. A month is defined as 28 days.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+16
+Table S4. Summary of Infusion-Related Reactions.
+Event — no. (%) NTLA-2002 25 mg
+(N=10)
+NTLA-2002 50 mg
+(N=11)
+Placebo
+(N=6)
+Any event 1 (10) 3 (27) 1 (17)
+Back pain 1 (10) 1 (9) 0
+Flushing 0 1 (9) 1 (17)
+Other* 0 3 (27) 0
+*Other included chest pain (noncardiac), generalized tingling, neck pain, and tight chest; tight chest and generalized 
+tingling were experienced by the same patient.
+Table S5. Change from Baseline in Number of Investigator-Confirmed Attacks per Month in the 
+Phase 1 Study.*
+Variable
+NTLA-2002
+25 mg
+(N=3)
+NTLA-2002
+50 mg
+(N=4)
+NTLA-2002
+75 mg
+(N=3)
+All Patients 
+(N=10)
+Patients with attacks during 
+the screening period —
+no. (%)
+3 (100) 3 (75) 3 (100) 9 (90)
+Percentage change from baseline in no. of attacks per month†
+Post-primary observation 
+period −98.7±2.3 −100±0.0 −99.6±0.8 −99.4±1.4
+On-study period‡ −97.4±2.3 −99.5±0.93 −96.6±4.1 −97.8±2.7
+*Plus–minus values denote means ±SD. Baseline was defined as the screening period (≤42 days before infusion) 
+before the administration of NTLA-2002.
+†The percentage change from baseline was calculated only for patients with angioedema attacks during the 
+screening period.
+‡The on-study period was defined as the time from the administration of study intervention through the last 
+assessment as of the data cutoff.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+17
+Table S6. Adverse Events after the Administration of NTLA-2002 in the Phase 1 Study.*
+Event
+NTLA-2002
+25 mg
+(N=3)
+NTLA-2002
+50 mg
+(N=4)
+NTLA-2002
+75 mg
+(N=3)
+All Patients 
+(N=10)
+number of patients (percent)
+Any adverse event 3 (100) 4 (100) 3 (100) 10 (100)
+Infusion-related reaction 2 (67) 2 (50) 3 (100) 7 (70)
+COVID-19 3 (100) 1 (25) 2 (67) 6 (60)
+Fatigue 1 (33) 3 (75) 2 (67) 6 (60)
+Upper respiratory tract 
+infection 1 (33) 1 (25) 3 (100) 5 (50)
+Myalgia 0 0 3 (100) 3 (30)
+Oropharyngeal pain 2 (67) 0 1 (33) 3 (30)
+Abdominal discomfort 0 2 (50) 0 2 (20)
+Headache 0 0 2 (67) 2 (20)
+Viral upper respiratory 
+tract infection 0 0 2 (67) 2 (20)
+*Shown are adverse events, coded according to preferred terms in the Medical Dictionary for Regulatory Activities, 
+version 24.0, that occurred in at least two patients after the administration of NTLA-2002. No adverse events after 
+the administration of NTLA-2002 were assessed to be grade 3 or higher in severity.
+
+Supplementary Appendix: CRISPR-Based Therapy for Hereditary Angioedema
+18
+Supplementary References
+1. Gautam M, Jozic A, Su GL, et al. Lipid nanoparticles with PEG-variant surface modifications 
+mediate genome editing in the mouse retina. Nat Commun 2023;14(1):6468. DOI: 
+10.1038/s41467-023-42189-3.
+2. Longhurst HJ, Lindsay K, Petersen RS, et al. CRISPR-Cas9 in vivo gene editing of KLKB1 for 
+hereditary angioedema. N Engl J Med 2024;390(5):432-441. DOI: 10.1056/NEJMoa2309149.
+3. Weller K, Magerl M, Peveling-Oberhag A, Martus P, Staubach P, Maurer M. The Angioedema 
+Quality of Life Questionnaire (AE-QoL) - assessment of sensitivity to change and minimal 
+clinically important difference. Allergy 2016;71(8):1203-9. DOI: 10.1111/all.12900.

@@ -27,8 +27,15 @@ internal speculation, competitor promotional material, or anything not
 medically/regulatory reviewed. The quality of every draft letter is capped by
 the quality of what lives here.
 
+Extracted plain text for each PDF lives in `references/text/` (same basename,
+`.txt`) so the content is searchable even where PDF page-rendering isn't
+available.
+
 ## Current status
 
-No source documents are loaded yet. Add your Lonvo-Z publications/posters and
-register them in `index.md` to enable cited drafts. Until then the pipeline runs
-but will correctly return data-gap responses.
+**4 sources loaded** (see `index.md`): the Phase 1 dose-escalation study
+(Longhurst 2024), the Phase 2 randomized study (Cohn 2024) with its supplementary
+appendix, and the pivotal **Phase 3 HAELO** trial (Cohn 2026). The pipeline can
+now produce cited drafts for efficacy, safety, PD/kallikrein, dosing, and trial-
+design questions. Add further publications/posters here and register them in
+`index.md` to extend coverage.

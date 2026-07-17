@@ -1,0 +1,1782 @@
+n engl j med nejm.org 1
+The new england journal of medicine
+Author affiliations are listed at the end of 
+the article. Danny M. Cohn can be con‑
+tacted at d.m.cohn@amsterdamumc.nl
+or at Amsterdam University Medical Cen‑
+ter, Meibergdreef 9, Amsterdam, 1105 
+AZ, the Netherlands.
+*A complete list of the HAELO investiga‑
+tors is provided in the Supplementary
+Appendix, available at NEJM.org.
+Danny M. Cohn and Padmalal Gurugama 
+contributed equally to this article.
+This article was published on June 13,
+2026, and updated on June 16, 2026, at
+NEJM.org.
+DOI: 10.1056/NEJMoa2600931
+Copyright © 2026 Massachusetts Medical Society.
+BACKGROUND
+Hereditary angioedema is a rare and potentially life-threatening genetic condition 
+characterized by recurrent and debilitating swelling attacks. Lonvoguran ziclumeran 
+(lonvo-z) — an investigational, in vivo gene-editing treatment based on clustered 
+regularly interspaced short palindromic repeats (CRISPR) — is being developed as 
+a single-dose treatment for hereditary angioedema.
+METHODS
+In a phase 3, double-blind trial, we randomly assigned, in a 2:1 ratio, patients who 
+were 16 years of age or older and had hereditary angioedema with C1 inhibitor 
+deficiency to receive a single intravenous infusion of lonvo-z (at a dose of 50 mg) or 
+placebo. The primary end point was the number of investigator-confirmed heredi￾tary angioedema attacks per month (the monthly attack rate) from week 5 through 
+week 28 after infusion.
+RESULTS
+A total of 80 patients underwent randomization; 52 were assigned to receive lonvo-z 
+and 28 to receive placebo. As of February 10, 2026, the median duration of follow-up 
+was 7.5 months (range, 4.9 to 12.8). The least-squares mean monthly attack rate 
+from weeks 5 through 28 was 0.26 (95% confidence interval [CI], 0.15 to 0.45) in 
+the lonvo-z group and 2.10 (95% CI, 1.55 to 2.86) in the placebo group (relative 
+difference, −87%; 95% CI, −93 to −78; P<0.001). Adverse events that occurred dur￾ing or after infusion of lonvo-z or placebo were reported in 92% and 86% of the 
+patients in the lonvo-z and placebo groups, respectively, from day 1 through week 28. 
+Among the adverse events that occurred during or after infusion and more often 
+in the lonvo-z group than in the placebo group, the most common (occurring in 
+>10% of the patients in the lonvo-z group) included infusion-related reaction,
+headache, fatigue, back pain, and upper respiratory tract infection. No serious or
+grade 3 or higher adverse events were reported in the lonvo-z group.
+CONCLUSIONS
+Among patients with hereditary angioedema, a single intravenous infusion of lonvo-z 
+resulted in a significantly lower rate of hereditary angioedema attacks than placebo. 
+(Funded by Intellia Therapeutics; HAELO ClinicalTrials.gov number, NCT06634420.)
+ABSTRACT
+Lonvoguran Ziclumeran — In Vivo CRISPR 
+Gene Editing in Hereditary Angioedema
+Danny M. Cohn, M.D., Ph.D.,1
+ Padmalal Gurugama, M.D.,2
+Hilary J. Longhurst, Ph.D., F.R.A.C.P.,3,4
+ Emel Aygören‑Pürsün, M.D.,5
+Timothy J. Craig, D.O.,6,7
+ Henriette Farkas, M.D., Ph.D., D.Sc.,8
+Joshua Jacobs, M.D.,9
+ William R. Lumry, M.D.,10 Markus Magerl, M.D.,11,12
+Jonny Peter, M.B., Ch.B.,13 Marc A. Riedl, M.D.,14 David Maag, Ph.D.,15
+Adele Golden, Ph.D.,15 Mrinal Y. Shah, Ph.D.,15 Andrea Sutherland, M.D., M.P.H.,15
+Catherine R. Miller, Pharm.D., M.P.H.,15 Ahmed M. Abdelhady, Ph.D.,15
+Yuanxin Xu, M.D., Ph.D.,15 James S. Butler, Ph.D.,15 David Lebwohl, M.D.,15
+John Leonard, M.D.,15 and Aleena Banerji, M.D.,16,17 for the HAELO Investigators*
+Original Article
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+
+2 n engl j med nejm.org
+The new england journal of medicine
+Hereditary angioedema is a rare, 
+autosomal-dominant disorder character￾ized by unpredictable, recurrent, and po￾tentially fatal attacks of swelling in the gastroin￾testinal tract, upper airway, and skin, which can 
+result in substantial physical and psychosocial 
+challenges.1,2 Hereditary angioedema due to C1 
+inhibitor deficiency results from pathogenic 
+variants in the gene that encodes C1 inhibitor 
+(SERPING1), which causes either low C1 inhibitor 
+levels or impaired C1 inhibitor function.2
+ This 
+deficiency results in dysregulated plasma kalli￾krein activity and excessive bradykinin produc￾tion, which lead to episodes of increased vascular 
+permeability and swelling.2
+Hereditary angioedema remains a challenge 
+for patients despite the availability of on-demand 
+therapy for the treatment of attacks and long-term 
+prophylactic medications. Although the availabil￾ity of on-demand therapy and long-term prophy￾laxis has improved the management of hereditary 
+angioedema, incomplete disease control, lack of 
+access to treatments, and the need for lifelong 
+use still impose a burden on patients. Results of 
+phase 3 trials of long-term prophylaxis suggest 
+that approximately 40 to 60% of patients can 
+become attack-free.3-5 However, in a 2025 survey 
+of patients with hereditary angioedema who were 
+not participating in clinical trials, 80% of the pa￾tients reported having attacks, even though 89% of 
+the patients reported using long-term prophylaxis.6
+Fear and anxiety about the next attack profoundly 
+affect patients, and this psychosocial burden is 
+influenced by the degree of attack control.7
+Reducing plasma kallikrein production or ac￾tivity is a clinically validated treatment strategy to 
+reduce bradykinin production, although currently 
+approved treatment options require chronic or 
+on-demand dosing to show efficacy.2-5,8,9 Plasma 
+kallikrein is derived from prekallikrein, and 
+since the liver is the primary source of prekalli￾krein,10 the use of a nonviral, liver-directed lipid 
+nanoparticle to deliver clustered regularly inter￾spaced short palindromic repeats (CRISPR) gene 
+editing in vivo is being investigated as a thera￾peutic strategy. Lonvoguran ziclumeran (also 
+known as lonvo-z or NTLA-2002) contains CRISPR 
+components — a guide RNA that targets the 
+prekallikrein gene KLKB1 and a codon-optimized 
+human mRNA sequence of Streptococcus pyogenes
+Cas9 protein. Lonvo-z was designed to reduce the 
+level of plasma prekallikrein by inactivating KLKB1, 
+with the intent of resetting the balance of the 
+kallikrein–kinin system and normalizing brady￾kinin levels.10
+In a phase 1–2 trial (ClinicalTrials.gov num￾ber, NCT05120830), all 37 of the patients who 
+received treatment with lonvo-z had rapid and 
+deep reductions in total plasma kallikrein levels 
+that were sustained through the last follow-up 
+visit; 20 of the 21 patients treated with 50 mg of 
+lonvo-z became attack-free without the use of 
+long-term prophylaxis.11 The optimal biologic dose 
+of lonvo-z was identified as 50 mg. Here we report 
+the primary results from HAELO (A Phase 3 Study 
+to Evaluate NTLA-2002 in Participants with He￾reditary Angioedema), which evaluated the efficacy 
+and safety of a single intravenous infusion of 
+50 mg of lonvo-z in patients with hereditary angio￾edema due to C1 inhibitor deficiency (Fig. S1).
+Methods
+Trial Design and Oversight
+We conducted this multinational, double-blind, 
+randomized, placebo-controlled trial at 31 sites in 
+Australia, Canada, France, Germany, the Nether￾lands, New Zealand, South Africa, the United 
+Kingdom, and the United States. The trial was 
+approved by the institutional review board or 
+ethics committee at each participating trial site. 
+All the patients provided written informed con￾sent. The trial was conducted in accordance with 
+the principles of the Declaration of Helsinki and 
+the Good Clinical Practice guidelines of the In￾ternational Council for Harmonisation. An inde￾pendent data monitoring committee assessed trial 
+conduct and interim safety summaries during the 
+trial. The authors vouch for the accuracy and 
+completeness of the data and for the fidelity of 
+the trial to the protocol, available with the full 
+text of this article at NEJM.org. The first draft of 
+the manuscript was written by medical writers 
+funded by Intellia Therapeutics. The authors re￾viewed and edited the manuscript and made the 
+decision to submit it for publication. The contri￾butions of individual authors are provided in the 
+Supplementary Appendix (available at NEJM.org).
+Patients
+Eligible patients were at least 16 years of age, had 
+received a diagnosis of hereditary angioedema 
+due to C1 inhibitor deficiency, and had at least two 
+investigator-confirmed hereditary angioedema at￾The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+n engl j med nejm.org 3
+Lonvoguran Ziclumeran in Hereditary Angioedema
+tacks during the 4- to 8-week run-in period. Pa￾tients were not permitted to use long-term pro￾phylaxis within five half-lives before the start of 
+the run-in period through the end of week 28. 
+Full eligibility criteria are listed in the protocol. 
+Screening was stopped when it was estimated 
+that a sufficient number of patients would be 
+enrolled.
+Randomization and Treatment
+Patients were randomly assigned in a 2:1 ratio to 
+receive a single infusion of lonvo-z at a dose of 
+50 mg or placebo. The baseline number of attacks 
+per month (≤3 or >3) was used as a stratification 
+factor for randomization. On day 1, the infusion 
+was administered intravenously over the course 
+of approximately 4 hours. The efficacy evaluation 
+period was defined as week 5 (day 29) through 
+week 28 (day 197) after infusion. During this 
+time, no use of long-term prophylaxis was per￾mitted. At week 28, patients in both trial groups 
+could elect to cross over to receive a single blind￾ed infusion of placebo (for patients in the lonvo-z 
+group) or lonvo-z (for patients in the placebo 
+group). All patients will undergo additional ob￾servation for 76 weeks after the end of the effi￾cacy evaluation period, for a total trial duration 
+of 104 weeks.
+To mitigate the risk of infusion-related reac￾tions, patients received an oral glucocorticoid 
+(dexamethasone at a dose of 8 mg or equivalent 
+therapy) at home 8 to 24 hours before infusion. 
+In addition, 1 to 2 hours before infusion, patients 
+received either an oral or intravenous glucocorti￾coid (dexamethasone [10 mg] or equivalent ther￾apy) and H1
+ and H2
+-antihistamines: intravenous 
+diphenhydramine (50 mg or equivalent) or oral 
+cetirizine (10 mg or equivalent) and intravenous 
+or oral famotidine (20 mg or equivalent). To 
+mitigate the risk of a hereditary angioedema at￾tack during the infusion (given the washout of 
+long-term prophylaxis), C1 inhibitor short-term 
+prophylaxis was required immediately before in￾fusion. Access to therapy to treat attacks was re￾quired throughout the trial.
+Clinical Assessment
+Each patient recorded angioedema symptoms, at￾tacks, and treatments in an electronic diary that 
+was reviewed by an investigator to confirm wheth￾er an event represented a hereditary angioedema 
+attack. Blood samples for pharmacodynamic and 
+pharmacokinetic analyses were obtained. Addi￾tional evaluations are described in the protocol.
+Trial End Points
+The primary end point was the time-normalized 
+number of investigator-confirmed hereditary 
+angioedema attacks per month (the attack rate) 
+from week 5 through week 28, with a month 
+defined as 28 days. Key secondary end points 
+from week 5 through week 28 were the time￾normalized number of investigator-confirmed 
+hereditary angioedema attacks per month requir￾ing on-demand therapy, the time-normalized num￾ber of moderate or severe investigator-confirmed 
+attacks per month, and investigator-confirmed 
+attack-free status. The change from baseline (last 
+assessment before randomization) to week 28 in 
+the total score on the Angioedema Quality of Life 
+(AE-QoL) questionnaire was also a key secondary 
+end point. The AE-QoL questionnaire is a vali￾dated, angioedema-specific patient-reported out￾come measure; total scores range from 0 to 100, 
+with lower scores indicating less impairment.
+Other secondary end points were response 
+status (a reduction from baseline of at least 50%, 
+70%, or 90% in the time-normalized number of 
+investigator-confirmed hereditary angioedema at￾tacks per month from week 5 through week 28) 
+and the time-normalized number of investigator￾confirmed attacks per month from week 1 through 
+week 28. Additional secondary end points from 
+week 1 through week 28 included the number of 
+attacks per month requiring on-demand therapy, 
+the number of moderate or severe attacks, attack￾free status, and response status. End points related 
+to long-term efficacy at week 104 are described in 
+the protocol. Additional end points included safety 
+(as assessed on the basis of adverse events), phar￾macodynamics (the change from baseline in total 
+plasma kallikrein protein level), pharmacokinetics, 
+and immunogenicity.
+Statistical Analysis
+We planned to enroll a total of 60 patients (40 
+patients in the lonvo-z group and 20 patients in 
+the placebo group), which would provide the trial 
+with 99% power to detect a monthly attack rate 
+ratio of 0.25 for the difference between the lonvo-z 
+group and the placebo group, with a two-sided 
+alpha level of 0.05.
+Formal statistical hypothesis testing was per￾formed for the primary end point and four key 
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+4 n engl j med nejm.org
+The new england journal of medicine
+secondary end points with a hierarchical gate￾keeping testing procedure. If a significant dif￾ference was observed for the primary end point, 
+the key secondary end points were to be evaluated 
+in the following hierarchical order: the time￾normalized number of investigator-confirmed he￾reditary angioedema attacks requiring on-demand 
+therapy from week 5 through week 28, the time￾normalized number of moderate or severe inves￾tigator-confirmed attacks from week 5 through 
+week 28, investigator-confirmed attack-free status 
+from week 5 through week 28, and the change 
+from baseline to week 28 in the AE-QoL ques￾tionnaire total score. The secondary end points 
+were tested in the order described only if the 
+primary end point and each preceding secondary 
+end point in the hierarchy were statistically sig￾nificant. The family-wise type I error rate was 
+controlled at a two-sided alpha level of 0.05. The 
+primary analysis was based on a prespecified 
+completion date after at least 60 patients had 
+completed the week 28 visit or had discontinued 
+the trial.
+From week 5 through week 28, the number of 
+attacks, attacks requiring on-demand therapy, and 
+moderate or severe attacks were analyzed with a 
+Poisson regression model with Pearson chi-square 
+scaling of standard errors to account for poten￾tial overdispersion. The model included trial group 
+and baseline attack rate (≤3 or >3 attacks per 
+month) as covariates, and the logarithm of fol￾low-up duration for each patient from week 5 
+through week 28 as the offset variable. Attack￾free status from week 5 through week 28 was as￾sessed with the Cochran–Mantel–Haenszel test, 
+with stratification according to the baseline at￾tack rate. The change from baseline to week 28 
+in AE-QoL questionnaire total score was assessed 
+with a mixed model for repeated measures that 
+included trial group, AE-QoL questionnaire total 
+score at baseline, visit, and trial-group-by-visit 
+interaction as independent variables.
+For patients who started long-term prophy￾laxis before the week 28 assessment, only attacks 
+that started before initiation of long-term pro￾phylaxis were included in the analysis. For patients 
+who had not yet completed the week 28 visit at the 
+time of the data-cutoff date (February 10, 2026), 
+all data through their latest attack assessment 
+were included in the analysis. Missing data were 
+assumed to be missing at random since the un￾observed data were administratively censored and 
+no imputation was performed in the analysis. In 
+a sensitivity analysis, multiple imputation was 
+performed under missing-at-random and jump￾to-reference assumptions for the primary and key 
+secondary end points. Additional statistical meth￾ods are provided in the Supplementary Appendix. 
+The 95% confidence intervals have not been not 
+adjusted for multiplicity and should not be used 
+in place of hypothesis testing.
+The full analysis population, which was used 
+for efficacy analyses, included all the patients who 
+had undergone randomization. The safety analysis 
+population included all the patients who had un￾dergone randomization and received at least a 
+partial dose of lonvo-z or placebo. Safety data 
+were summarized with the use of descriptive 
+statistics according to trial group.
+Results
+Patients
+Owing to an unexpectedly low incidence of 
+screening failure, 80 of the 92 screened patients 
+underwent randomization; 52 patients were as￾signed to receive lonvo-z and 28 were assigned 
+to receive placebo (Fig. S2). As of February 10, 
+2026 (the data-cutoff date), the median follow￾up was 7.5 months (range, 4.9 to 12.8). The data 
+from the primary analysis are reported here, and 
+longer-term follow-up of the trial is ongoing. A 
+total of 64 patients (43 in the lonvo-z group and 
+21 in the placebo group) reached at least the week 
+28 evaluation; the remaining 16 patients reached 
+at least week 20. As of the data-cutoff date, all 80 
+patients continued to be followed and were in￾cluded in the primary analysis.
+Forty-nine patients received the full dose of 
+lonvo-z. Two patients received a nearly full dose 
+(97% and 98% of the planned dose), with nomi￾nal volume loss related to the management of oc￾clusions during infusion. One patient received a 
+partial dose (17% of the planned dose) due to an 
+infusion pump error that resulted in the infusion 
+duration exceeding the permitted time frame.
+The demographic and clinical characteristics 
+of the patients at baseline were balanced in the 
+two groups (Table 1 and Table S1) and were gen￾erally representative of the population of patients 
+with hereditary angioedema (Table S2). The me￾dian age of the patients was 41.5 years (range, 
+19.0 to 76.0), and 71% of the patients were receiv￾ing long-term prophylaxis before enrollment. The 
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+n engl j med nejm.org 5
+Lonvoguran Ziclumeran in Hereditary Angioedema
+mean (±SD) baseline monthly attack rate during 
+the run-in period was 3.5±1.8 in the lonvo-z group 
+and 3.5±1.9 in the placebo group.
+Efficacy
+Primary End Point
+The least-squares mean monthly rate of investi￾gator-confirmed hereditary angioedema attacks 
+from week 5 through week 28 was 0.26 (95% con￾fidence interval [CI], 0.15 to 0.45) in the lonvo-z 
+group and 2.10 (95% CI, 1.55 to 2.86) in the pla￾cebo group (relative difference, −87%; 95% CI, 
+−93 to −78; P<0.001) (Table 2). The difference in
+the mean number of attacks per month between
+the two trial groups appeared within 4 weeks
+after infusion, and the response to lonvo-z re￾mained stable through follow-up, albeit in dimin￾ishing numbers of patients at later time points
+(Fig. 1). The responses of individual patients are
+depicted in Figure S3. The results appeared to be
+generally consistent in prespecified subgroup 
+analyses (Fig. S4).
+Key Secondary End Points
+The least-squares mean monthly rate of investi￾gator-confirmed hereditary angioedema attacks 
+requiring on-demand therapy from week 5 through 
+week 28 was 0.19 (95% CI, 0.10 to 0.36) in the 
+lonvo-z group and 1.79 (95% CI, 1.27 to 2.54) in 
+the placebo group (relative difference, −89%; 
+95% CI, −94 to −79; P<0.001). The least-squares 
+mean monthly rate of moderate or severe attacks 
+from week 5 through week 28 was 0.11 (95% CI, 
+0.06 to 0.23) in the lonvo-z group and 1.23 (95% 
+CI, 0.84 to 1.81) in the placebo group (relative 
+difference, −91%; 95% CI, −96 to −81; P<0.001). 
+From week 5 through week 28, the patients who 
+remained attack-free included 32 of 52 patients 
+(62%; 95% CI, 47 to 75) in the lonvo-z group and 
+3 of 28 patients (11%; 95% CI, 2 to 28) in the 
+Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.*
+Characteristic
+Lonvo-z
+(N=52)
+Placebo
+(N=28)
+All Patients
+ (N=80)
+Median age at screening (range) — yr 42.0 (23.0–71.0) 40.0 (19.0–76.0) 41.5 (19.0–76.0)
+Sex — no. (%)
+Female 35 (67) 20 (71) 55 (69)
+Male 17 (33) 8 (29) 25 (31)
+Type of hereditary angioedema — no. (%)†
+C1INH type 1 49 (94) 25 (89) 74 (92)
+C1INH type 2 3 (6) 3 (11) 6 (8)
+Previous treatment for hereditary angioedema before trial 
+enrollment — no. (%)
+Long-term prophylaxis‡ 35 (67) 22 (79) 57 (71)
+On-demand treatment only 17 (33) 6 (21) 23 (29)
+Typical severity of angioedema attacks — no. (%)
+Mild 7 (13) 5 (18) 12 (15)
+Moderate 30 (58) 20 (71) 50 (62)
+Severe 15 (29) 3 (11) 18 (22)
+No. of hereditary angioedema attacks per month during 
+the run-in period
+3.5±1.79 3.5±1.91 3.5±1.82
+AE-QoL total score§ 58.4±18.05 58.0±12.54 58.3±16.25
+* Complete data on demographic and clinical characteristics are provided in the Supplementary Appendix. Plus–minus
+values are means ±SD. Percentages may not total 100 because of rounding.
+† Hereditary angioedema C1 inhibitor (C1INH) type 1 includes patients with low C1 inhibitor levels; C1INH type 2 in‑
+cludes those with impaired C1 inhibitor function.
+‡ Long-term prophylaxis before trial enrollment was defined as the last dose of long-term prophylaxis being discontinued 
+within 100 days before the first screening visit.
+§ The Angioedema-Quality of Life (AE-QoL) questionnaire is a validated, angioedema-specific patient-reported outcome
+measure; total scores range from 0 to 100, with lower scores indicating less impairment.
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+6 n engl j med nejm.org
+The new england journal of medicine
+placebo group (odds ratio, 12.81; 3.45 to 47.55; 
+P<0.001). Patients in the lonvo-z group had a 
+greater improvement in the AE-QoL total score 
+from baseline to week 28 than those in the pla￾cebo group, with a least-squares mean change 
+from baseline of −23.51 points (95% CI, −27.64 
+to −19.38) in the lonvo-z group and −6.47 points 
+(95% CI, −12.26 to −0.68) in the placebo group 
+(mean difference, −17.04 points; 95% CI, −24.15 to 
+−9.93; P<0.001), a finding that exceeded the mini￾mal clinically important difference of a change of 
+6 points in the AE-QoL total score.12
+Other End Points
+From week 5 through week 28, a reduction from 
+baseline of 90% or more in the monthly attack 
+Table 2. Primary and Key Secondary End Points.
+End Point
+Lonvo-z
+(N=52)
+Placebo
+(N=28)
+Primary end point
+LS mean no. of investigator-confirmed hereditary angioedema 
+attacks per month, wk 5 through wk 28 (95% CI)*†‡
+0.26 (0.15 to 0.45) 2.10 (1.55 to 2.86)
+Percent difference vs. placebo (95% CI) −87 (−93 to −78)
+P value <0.001
+Key secondary end points
+LS mean no. of investigator-confirmed hereditary angioedema 
+attacks requiring on-demand therapy, wk 5 through wk 
+28 (95% CI)*†‡
+0.19 (0.10 to 0.36) 1.79 (1.27 to 2.54)
+Percent difference vs. placebo (95% CI) −89 (−94 to −79)
+P value <0.001
+LS mean no. of moderate or severe hereditary angioedema 
+attacks, wk 5 through wk 28 (95% CI)*†‡
+0.11 (0.06 to 0.23) 1.23 (0.84 to 1.81)
+Percent difference vs. placebo (95% CI) −91 (−96 to −81)
+P value <0.001
+Attack-free status, wk 5 through wk 28 — no. (%)†‡ 32 (62) 3 (11)
+95% CI§ 47.0 to 74.7 2.3 to 28.2
+Odds ratio vs. placebo (95% CI) 12.81 (3.45 to 47.55)
+P value <0.001
+LS mean change from baseline to wk 28 in AE-QoL 
+questionnaire total score — (95% CI)‡¶
+−23.51 (−27.64 to −19.38) −6.47 (−12.26 to −0.68)
+LS mean difference vs. placebo (95% CI) −17.04 (−24.15 to −9.93)
+P value <0.001
+* The mean number of hereditary angioedema attacks per month was estimated with the use of a Poisson regression 
+model with Pearson chi-square scaling of standard error with treatment group and baseline attack rate (≤3 or >3 at‑
+tacks per month) as covariates. Baseline was defined as the time from the date of the second screening visit to ran‑
+domization. A month was defined as 28 days.
+† For patients who initiated any long-term prophylaxis before the week 28 assessment, only attacks that started before 
+prophylaxis initiation were included in the analysis. For patients who did not reach week 28 assessment, all data 
+through their latest attack assessment were included.
+‡ All 16 patients who had not yet reached week 28 at the time of the data-cutoff date owing to later enrollment remained 
+in follow-up, and all available data through their latest assessment were included in the analysis for the primary and key 
+secondary end points. No imputation was performed in the analyses.
+§ The exact confidence intervals were calculated with the Clopper–Pearson method.
+¶The AE-QoL questionnaire total score ranges from 0 to 100, with lower scores indicating better quality of life. The mini‑
+mal clinically important difference is defined as a change of 6 points.12 The total score change from baseline at week 
+28 was estimated with the use of a mixed model for repeated measures, with baseline total score, trial group, visit, and 
+trial-group-by-visit interaction as fixed effects, and with patient as a random effect. For patients who initiated any long￾term prophylaxis before the week 28 assessment, only AE-QoL data that were obtained before initiation of prophylaxis 
+were included in the analysis. At week 28, data were available for 44 patients in the lonvo-z group and 20 patients in the 
+placebo group.
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+n engl j med nejm.org 7
+Lonvoguran Ziclumeran in Hereditary Angioedema
+rate was observed in 39 of the 52 patients (75%) 
+in the lonvo-z group and in 5 of the 28 patients 
+(18%) in the placebo group (Fig. S5A). Similar 
+results were observed from week 1 through week 
+28 (Fig. S5B). From week 1 through week 28, the 
+least-squares mean monthly attack rate was 0.32 
+(95% CI, 0.20 to 0.51) in the lonvo-z group and 
+2.07 (95% CI, 1.55 to 2.75) in the placebo group 
+(relative difference, −84%; 95% CI, −91 to −75) 
+(Table S3). From week 5 through the last follow-up 
+assessment, among patients treated with lonvo-z, 
+the mean reduction from baseline in the monthly 
+attack rate was 89±20.1% (Table S4), and 60% (31 
+of 52) of the patients were attack-free without the 
+use of long-term prophylaxis. No patients in the 
+lonvo-z group and 2 patients in the placebo group 
+restarted long-term prophylactic therapy.
+Safety
+Adverse events that occurred during or after in￾fusion of lonvo-z or placebo from day 1 through 
+week 28 were reported in 48 of the 52 patients 
+(92%) in the lonvo-z group and in 24 of the 28 
+patients (86%) in the placebo group (Table 3 and 
+Table S5). The most common adverse event re￾ported in the lonvo-z group was infusion-related 
+reaction, which occurred in 32 patients (62%) in 
+the lonvo-z group and in 5 patients (18%) in the 
+placebo group. All adverse events were grade 1 
+or 2, no adverse events of grade 3 or higher were 
+reported in either group, and no serious adverse 
+events were reported in the lonvo-z group for the 
+duration of follow-up.
+All infusion-related reactions were grade 1 or 
+2 and were considered by the investigator to be 
+related to lonvo-z or placebo (Table S6); most 
+were transient, occurred shortly after initiation 
+of the infusion, and resolved the same day (Ta￾ble S7). The most common symptoms associated 
+with infusion-related reactions were headache, 
+flushing, and chest pain or tightness. A total of 
+seven patients in the lonvo-z group had infusion￾related reactions that resulted in a decrease in 
+the infusion rate or temporary infusion interrup￾tions. The median time for lonvo-z infusion on 
+day 1 was 3.9 hours (range, 2.5 to 5.3).
+Figure 1. Monthly Hereditary Angioedema Attack Rate over Time.
+The mean number of hereditary angioedema (HAE) attacks per month before screening was calculated on the basis 
+of the number of patient-reported attacks occurring in the 90 days before the screening visit. The baseline monthly 
+attack rate was defined as the number of HAE attacks per month from the date of the second screening visit to ran‑
+domization. For patients in the placebo-to-lonvo-z crossover group, the baseline period was defined as the time 
+from the date of the second screening visit to the day before lonvo-z crossover administration or the day before the 
+start of long-term prophylaxis, whichever was earlier. The baseline attack rate and attack rates after infusion were 
+confirmed by the investigator. During the efficacy evaluation period, two patients in the placebo group restarted 
+long-term prophylaxis owing to a high number of attacks. For these patients, data were censored at the time of long￾term prophylaxis initiation and only attacks occurring before long-term prophylaxis initiation were included in the 
+analysis. Both patients discontinued long-term prophylaxis before receiving the lonvo-z crossover infusion. I bars in‑
+dicate the standard error. Mean No. of Attacks per Month
+5
+3
+4
+2
+1
+0
+Before
+Screening
+Baseline 4 8 12 16 48
+Weeks since Infusion
+Lonvo-z
+Placebo
+Placebo to lonvo-z
+52
+28
+0
+52
+28
+20
+52
+28
+20
+52
+28
+8
+52
+27
+3
+52
+27
+0
+20
+52
+27
+0
+24
+50
+25
+0
+28
+44
+21
+0
+32
+43
+0
+0
+36
+20
+0
+0
+40
+8
+0
+0
+44
+6
+0
+0
+3
+0
+0
+No. at Risk
+Placebo to lonvo-z Lonvo-z
+after crossover
+Placebo
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+8 n engl j med nejm.org
+The new england journal of medicine
+Shifts in the levels of liver enzymes, most of 
+which occurred within 6 weeks after infusion, 
+were transient, asymptomatic, and resolved with￾out intervention (Fig. S6). In the lonvo-z group, 
+elevated levels of aspartate aminotransferase, ala￾nine aminotransferase, or both were observed in 
+eight patients (15%). The levels were all less than 
+3 times the upper limit of the normal range, with 
+the exception of the levels in one patient (2%), who 
+had an elevated alanine aminotransferase level 
+that fell between 3 times and less than 5 times 
+the upper limit of the normal range with a con￾current upper respiratory tract infection. This pa￾tient also had an elevated level of alanine amino￾transferase during the screening period. In the 
+placebo group, three patients (11%) had eleva￾tions of aspartate aminotransferase or alanine 
+aminotransferase (or both) of less than 3 times 
+the upper limit of the normal range, and no pa￾tients had a level that was 3 or more times the 
+upper limit of the normal range. The mean acti￾vated partial-thromboplastin time remained simi￾lar to baseline levels throughout follow-up (Fig. S7).
+Pharmacodynamics, Pharmacokinetics, 
+and Immunogenicity
+Total plasma kallikrein protein levels decreased 
+by the first measurement at week 2 (day 15) in 
+the lonvo-z group, with a mean reduction from 
+baseline of 65±15.7%; in the placebo group, levels 
+increased by 18±19.8% (Fig. 2). Absolute reduc￾tions in the total plasma kallikrein protein levels 
+are shown in Figure S8. Steady-state reductions 
+in total plasma kallikrein protein levels were 
+reached by week 5 and were maintained through 
+the last follow-up assessment. The levels of the 
+component analytes of lonvo-z (exogenous lipids 
+[LP000001 and DMG-PEG2k], Cas9 messenger 
+RNA, and a single guide RNA) rapidly declined 
+after infusion, with levels falling below the limit 
+of quantification within 2 to 4 weeks (Fig. S9). 
+After infusion of lonvo-z, transient antidrug anti￾bodies were detected in 8 patients and anti-Cas9 
+antibodies were detected in 50 patients (Table 
+S8). No discernible effects of these antibodies on 
+pharmacokinetics, pharmacodynamics, or safety 
+were seen.
+Crossover Analysis
+At the time of the data-cutoff date, 54 patients 
+had opted to receive a second blinded infusion 
+(34 patients in the lonvo-z group received placebo 
+and 20 patients in the placebo group received 
+lonvo-z). The duration of follow-up was limited 
+in patients who received the crossover infusion 
+(median, 1.4 months; range, 0.3 to 4.5). The pre￾liminary results with regard to the efficacy, safety, 
+and pharmacodynamics of lonvo-z among the pa￾tients who crossed over from the placebo group to 
+receive a single dose of lonvo-z after week 28 are 
+consistent with those among the patients who 
+had been initially assigned to the lonvo-z group 
+(Fig. 1 and Fig. S10).
+Discussion
+In this phase 3 trial, a single infusion of 50 mg of 
+lonvo-z resulted in a significantly lower rate of 
+hereditary angioedema attacks than placebo. Pa￾tients who received lonvo-z had an 87% lower 
+attack rate than those who received placebo, and 
+62% of the patients who received lonvo-z were 
+considered by the investigator to be attack-free 
+Table 3. Adverse Events during or after Infusion of Lonvo-z or Placebo through 
+Week 28.*
+Event
+Lonvo-z
+(N=52)
+Placebo
+(N=28)
+Any adverse event — no. (%) 48 (92) 24 (86)
+Related to trial regimen 37 (71) 6 (21)
+Any serious adverse event — no. (%) 0 1 (4)†
+Adverse events occurring in >5% of patients 
+in the lonvo-z group — no. (%)
+Infusion-related reaction 32 (62) 5 (18)
+Headache 10 (19) 3 (11)
+Fatigue 7 (14) 3 (11)
+Nasopharyngitis 7 (14) 9 (32)
+Back pain 6 (12) 3 (11)
+Upper respiratory tract infection 6 (12) 2 (7)
+Upper abdominal pain 5 (10) 0
+Abdominal pain 4 (8) 0
+Influenza 3 (6) 1 (4)
+Pain in extremity 3 (6) 0
+* All adverse events were graded for severity according to the National Cancer 
+Institute Common Terminology Criteria for Adverse Events, version 5. No 
+serious adverse events were reported in the lonvo-z group. One event of 
+grade 2, serious supraventricular tachycardia, was reported in the placebo 
+group. Related events refer to those that were deemed by the investigators to 
+be probably or possibly related to lonvo-z or placebo or those for which data 
+regarding the relationship to the trial regimen were missing.
+† This patient had serious supraventricular tachycardia, which started on day 
+39, resolved in 2 days, and was considered by the investigator to be unrelated 
+to the investigational product.
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+n engl j med nejm.org 9
+Lonvoguran Ziclumeran in Hereditary Angioedema
+from weeks 5 to 28 without the use of long-term 
+prophylaxis. Treatment with lonvo-z was associ￾ated with a reduction in the monthly attack rate, 
+a deep pharmacodynamic response that remained 
+stable over time, and improvements in quality of 
+life. The safety profile of lonvo-z was consistent 
+with that seen in the phase 1–2 trial.10,13 Adverse 
+events in the lonvo-z group were mild to moder￾ate in severity, with transient infusion-related 
+reactions being the most common adverse event.
+The efficacy results were similar to those 
+observed in the phase 1–2 trial. Among patients 
+who received 50 mg of lonvo-z in the open-label 
+phase 1 and blinded phase 2 portions, 3 of 4 pa￾tients (75%) and 8 of 11 patients (73%), respec￾tively, were attack-free without the use of long￾term prophylaxis at the end of the primary 
+observation period and had mean reductions of 
+greater than 80% in total plasma kallikrein pro￾tein levels.14 Over time, 20 of the 21 patients 
+(95%) who received 50 mg of lonvo-z in the phase 
+1–2 trial, including 6 crossover patients, became 
+attack-free with no use of long-term prophylax￾is.14 Although the duration of follow-up in the 
+phase 3 trial is limited beyond week 28, with 
+data through 40 weeks for only 8 patients who 
+were assigned to receive lonvo-z, the low attack 
+rate in these patients was maintained.
+Hereditary angioedema attacks can be diffi￾cult to identify since some symptoms (e.g., ab￾dominal pain) are common and can result from 
+varied causes. This factor presents a challenge in 
+clinical trials that rely on patient-reported symp￾toms to track the frequency of attacks. The lack 
+of a validated method to definitively attribute 
+such symptoms to the dysregulated kallikrein–
+kinin system may be a contributing factor as to 
+why some patients do not initially become symp￾tom-free in blinded, placebo-controlled clinical 
+trials of therapies that target this pathway, despite 
+findings of decreased levels of plasma kallikrein 
+protein or activity.3-5,9
+Nonclinical studies in animal models have 
+suggested that anti-Cas9 immune responses may 
+interfere with the safety or efficacy of gene edit￾ing therapies15-17; however, the clinical relevance 
+of these findings has not been evaluated. In this 
+trial, as well as in the phase 1 trial of lonvo-z,10
+we found a very low baseline prevalence of anti￾Cas9 antibodies with a high incidence of transient 
+anti-Cas9 antibody responses after treatment. De￾spite this finding, 11 patients who were initially 
+treated with 25 mg of lonvo-z in the phase 1–2 
+trial were safely treated with a follow-on dose of 
+50 mg, with evidence of improved clinical respons￾es and deeper reductions in total plasma kallikrein 
+Figure 2. Change from Baseline in Total Plasma Kallikrein Protein Levels.
+Shown is the mean percent change from baseline in the total plasma kallikrein protein level in patients receiving ei‑
+ther a single infusion of 50 mg of lonvo-z or placebo. In the lonvo-z group, the mean change after infusion was 
+−65±15.7% at week 2 (day 15) (in 52 patients), −79±14.2% at week 5 (in 52 patients), −80±13.9% at week 12 (in 52 
+patients), and −82±11.9% at week 28 (in 16 patients). I bars indicate standard deviations.
+4 6 8 10 14 16 18 20 22 24 26 30
+Mean Percent Change
+60
+20
+40
+0
+−20
+−40
+−60
+−80
+−100
+Baseline 5 12 32
+Weeks since Infusion
+Lonvo-z
+Placebo
+52
+28
+52
+28
+52
+28
+52
+27
+28
+16
+7
+7
+0
+No. at Risk
+Lonvo-z
+Placebo
+2
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+10 n engl j med nejm.org
+The new england journal of medicine
+protein levels that were indistinguishable from 
+those observed in patients treated with a single 
+50-mg dose. This preliminary evidence suggests 
+that the occurrence of anti-Cas9 antibody respons￾es after lonvo-z infusion does not compromise the 
+safety or efficacy of subsequent treatment.
+The edit to the gene KLKB1 is intended to be 
+permanent after treatment with lonvo-z. In a 
+humanized mouse model, persistent editing in 
+hepatocytes through aging and the liver-regener￾ation process was observed.10 In the phase 1–2 
+trial, reduced plasma kallikrein protein levels 
+remained low and stable at the latest follow-up 
+assessment of up to 3 years after one infusion of 
+50 mg of lonvo-z.11 These data suggest that the edit 
+in KLKB1 persists across mitoses (cell division), 
+given the reported rates of hepatocyte turnover.18
+Consideration must therefore be given to the 
+long-term safety of plasma prekallikrein knock￾down. Reports in the literature of a rare congeni￾tal plasma kallikrein deficiency (Fletcher factor 
+deficiency) suggest that such persons are healthy 
+and have prolonged activated partial-thrombo￾plastin time without an associated bleeding risk.19
+Efforts have been made to characterize the inci￾dence of certain clinical conditions, such as car￾diovascular disorders, among persons with this 
+deficiency.20,21 However, the rarity of Fletcher fac￾tor deficiency, together with reporting bias, makes 
+it difficult to draw definitive conclusions regard￾ing its association with specific clinical outcomes. 
+The data presented here and previously10,13 indi￾cate that the defining feature of congenital plasma 
+kallikrein deficiency, prolonged activated partial￾thromboplastin time, does not develop in patients 
+with hereditary angioedema who are treated with 
+lonvo-z. This may be due to the presence of a low 
+level of residual plasma kallikrein in the context of 
+a C1 inhibitor deficiency. The most prevalent car￾diovascular condition reported in persons with 
+congenital plasma kallikrein deficiency is hyper￾tension,20,22 which has not been reported as an 
+adverse event in patients treated with lonvo-z to 
+date. Consistent with this observation is that no 
+causal association with cardiovascular risk has 
+been reported in patients treated with approved 
+plasma kallikrein–targeted agents.23,24
+In other clinical trials involving in vivo gene 
+editing, investigational therapies have been as￾sociated with acute, sometimes serious or fatal, 
+adverse events, including increased levels of serum 
+alanine aminotransferase and aspartate amino￾transferase.25-30 These investigational agents com￾prising distinct lipid components and unique ac￾tive pharmaceutical ingredients are being studied 
+in unique populations of patients, some of whom 
+have serious underlying clinical disease and med￾ically important coexisting conditions, a factor 
+that makes it difficult to generalize safety find￾ings across the therapeutic class. In this trial, no 
+serious adverse events were observed in patients 
+treated with lonvo-z. The most common adverse 
+reactions were infusion-related reactions, which 
+were generally transient and resolved without in￾tervention. Elevated levels of serum aspartate 
+aminotransferase and alanine aminotransferase, 
+which occurred in approximately 10 to 15% of 
+patients treated with lonvo-z, were transient, as￾ymptomatic, and resolved without intervention.
+Another important consideration is the po￾tential risk of off-target editing. As gene editing 
+technology continues to advance, each drug can￾didate needs to be empirically evaluated, first 
+with a comprehensive preclinical assessment, and 
+then by long-term clinical evaluation for the risk 
+of off-target effects. For lonvo-z, extensive com￾putational and laboratory assessments showed 
+that the possibility of clinically relevant off-target 
+editing activity was low.10 Across all clinical trials 
+conducted with lonvo-z to date, no evidence of 
+adverse effects attributable to off-target editing 
+has been observed. A long-term follow-up study 
+is ongoing to elucidate the long-term safety and 
+efficacy of lonvo-z (NCT06262399).
+Limitations of this trial include the limited 
+sample size and length of follow-up as of the data￾cutoff date. Owing to these limitations, together 
+with a carefully selected patient sample, it is pos￾sible that other risks, particularly in a general 
+population with other coexisting conditions or 
+susceptibilities that may occur outside the con￾trolled setting of a clinical trial, have not yet 
+been identified. Continued follow-up in this trial 
+and its follow-up study will provide more data 
+on long-term outcomes. An additional limitation 
+is the placebo-controlled nature of the trial and 
+the long-term prophylaxis washout requirement, 
+which may have discouraged the participation of 
+some patients. However, the baseline character￾istics of the patients in this trial were similar to 
+those of the broader population with hereditary 
+angioedema.4,5,9,31 Finally, the race and ethnic 
+background of the patients are representative of 
+the countries where the trial was conducted and 
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+n engl j med nejm.org 11
+Lonvoguran Ziclumeran in Hereditary Angioedema
+not of the global population; however, neither 
+race nor ethnicity are known to affect the symp￾toms of hereditary angioedema.32
+In this phase 3 trial, among patients with 
+hereditary angioedema due to C1 inhibitor defi￾ciency, a single dose of lonvo-z resulted in a sig￾nificantly lower rate of hereditary angioedema 
+attacks than placebo from 5 through 28 weeks 
+after infusion. All adverse events were grade 1 or 
+2 in severity in the lonvo-z group. These data sup￾port the use of lonvo-z as a potential treatment 
+for hereditary angioedema.
+Supported by Intellia Therapeutics.
+Disclosure forms provided by the authors are available with 
+the full text of this article at NEJM.org.
+A data sharing statement provided by the authors is available 
+with the full text of this article at NEJM.org.
+We thank the patients and their caregivers, the trial-site co￾ordinators, and support staff; the staff of Intellia Therapeutics, 
+including Jenny Ostroske, Jasmine Hill, Smitha Tammareddy, 
+and Kimberly Price; the trial team at Medpace, the trial contract 
+research organization; and Jeffrey A. Blair, Ellen Woon, James 
+Banigan, and Melissa Austin of Helios Global Group for provid￾ing medical writing and editorial support on earlier drafts of 
+the manuscript.
+Author Information
+1Department of Vascular Medicine, Amsterdam Cardiovascular 
+Sciences, Amsterdam University Medical Centers, University of 
+Amsterdam, Amsterdam; 2Cambridge University Hospitals, 
+NHS Foundation Trust, Cambridge, United Kingdom; 3Te Toka 
+Tumai, Department of Immunology, Auckland City Hospital, 
+Auckland, New Zealand; 4Department of Medicine, University 
+of Auckland, Auckland, New Zealand; 5Department of Children 
+and Adolescents, University Hospital Frankfurt, Goethe Uni‑
+versity Frankfurt, Frankfurt, Germany; 6Penn State University 
+Departments of Medicine, Pediatrics, OB/GYN Maternal Fetal 
+Medicine, and Biomedical Sciences, Hershey, PA; 7Health Al‑
+lergy, Asthma, and Immunology, Department of Immunology, 
+Vinmec Times City and VinUniversity, Hanoi; 8Hungarian An‑
+gioedema Center of Reference and Excellence, Department of 
+Internal Medicine and Hematology, Semmelweis University, 
+Budapest, Hungary; 9Allergy and Asthma Clinical Research, 
+Walnut Creek, CA; 10Allergy and Asthma Research Associates 
+Research Center, Dallas; 11 Institute of Allergology, Charité-Uni‑
+versitätsmedizin Berlin, Corporate Member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Berlin; 12Fraunhofer 
+Institute for Translational Medicine and Pharmacology, Immu‑
+nology and Allergology, Berlin; 13Division of Allergology and 
+Clinical Immunology, Department of Medicine, Groote Schuur 
+Hospital, University of Cape Town and Allergy and Immunolo‑
+gy Unit, University of Cape Town Lung Institute, Cape Town, 
+South Africa; 14University of California, San Diego, La Jolla; 15 In‑
+tellia Therapeutics, Cambridge, MA; 16Massachusetts General 
+Hospital, Boston; 17Harvard Medical School, Boston.
+References
+1. Busse PJ, Christiansen SC, Riedl MA, 
+et al. US HAEA medical advisory board 2020 
+guidelines for the management of heredi￾tary angioedema. J Allergy Clin Immunol 
+Pract 2021;9(1):132-150.e3.
+2. Uminski K, Goodyear D, Betschel S. 
+Therapeutic advances in hereditary angio￾edema: a focus on present and future op￾tions. Adv Ther 2025;42:5879-95.
+3. Banerji A, Riedl MA, Bernstein JA, et 
+al. Effect of lanadelumab compared with 
+placebo on prevention of hereditary angio￾edema attacks: a randomized clinical trial. 
+JAMA 2018;320:2108-21.
+4. Riedl MA, Tachdjian R, Lumry WR, et 
+al. Efficacy and safety of donidalorsen for 
+hereditary angioedema. N Engl J Med 2024;
+391:21-31.
+5. Craig TJ, Reshef A, Li HH, et al. Effi￾cacy and safety of garadacimab, a factor 
+XIIa inhibitor for hereditary angioedema 
+prevention (VANGUARD): a global, multi￾centre, randomised, double-blind, placebo￾controlled, phase 3 trial. Lancet 2023;401:
+1079-90.
+6. Busse P, Wilson K, Farkas H, et al. Re￾thinking the management of hereditary 
+angioedema. Allergy Asthma Proc 2026;
+47:92-101.
+7. Lumry WR, Weller K, Magerl M, et al. 
+Impact of lanadelumab on health-related 
+quality of life in patients with hereditary 
+angioedema in the HELP study. Allergy 
+2021;76:1188-98.
+8. Busse PJ, Christiansen SC. Hereditary 
+angioedema. N Engl J Med 2020;382:1136-
+48.
+9. Zuraw B, Lumry WR, Johnston DT, et 
+al. Oral once-daily berotralstat for the pre￾vention of hereditary angioedema attacks: 
+a randomized, double-blind, placebo-con￾trolled phase 3 trial. J Allergy Clin Im￾munol 2021;148(1):164-172.e9.
+10. Longhurst HJ, Lindsay K, Petersen RS, 
+et al. CRISPR-Cas9 in vivo gene editing of 
+KLKB1 for hereditary angioedema. N Engl 
+J Med 2024;390:432-41.
+11. Magerl M, Gurugama P, Katelaris CH, 
+et al. Long-term durability and safety of 
+lonvoguran ziclumeran (lonvo-z, NTLA￾2002) 50 mg in patients with hereditary 
+angiodema. J Allergy Clin Immunol 2026;
+157:Suppl:AB21. abstract (https://www
+.jacionline.org/article/S0091-6749(25)
+01250-3/fulltext).
+12. Weller K, Magerl M, Peveling-Ober￾hag A, Martus P, Staubach P, Maurer M. 
+The Angioedema Quality of Life Question￾naire (AE-QoL) — assessment of sensitivi￾ty to change and minimal clinically impor￾tant difference. Allergy 2016;71:1203-9.
+13. Cohn DM, Gurugama P, Magerl M, et 
+al. CRISPR-based therapy for hereditary an￾gioedema. N Engl J Med 2025;392:458-67.
+14. Cohn DM, Gurugama P, Magerl M, et 
+al. Two-year durability/safety of one-time 
+lonvoguran ziclumeran (lonvo-z, NTLA￾2002) 50 mg in patients with hereditary 
+angioedema. Ann Allergy Asthma Immunol 
+2025;135:Suppl 1:S9. abstract (https://www
+.annallergy.org/article/S1081-1206(25)
+00461-2/fulltext).
+15. Mehta A, Merkel OM. Immunogenicity 
+of Cas9 protein. J Pharm Sci 2020;109:62-7.
+16. Crudele JM, Chamberlain JS. Cas9 im￾munity creates challenges for CRISPR gene 
+editing therapies. Nat Commun 2018;9:
+3497.
+17. Chew WL. Immunity to CRISPR Cas9 
+and Cas12a therapeutics. Wiley Interdis￾cip Rev Syst Biol Med 2018;10(1).
+18. Heinke P, Rost F, Rode J, et al. Diploid 
+hepatocytes drive physiological liver re￾newal in adult humans. Cell Syst 2022;
+13(6):499-507.e12.
+19. Barco S, Sollfrank S, Trinchero A, et 
+al. Severe plasma prekallikrein deficiency: 
+clinical characteristics, novel KLKB1 muta￾tions, and estimated prevalence. J Thromb 
+Haemost 2020;18:1598-617.
+20. Girolami A, Ferrari S, Cosi E, Girola￾mi B. Cardiovascular diseases in congeni￾tal prekallikrein deficiency: comparison 
+with other chance-associated morbidities. 
+Blood Coagul Fibrinolysis 2018;29:423-8.
+21. Girolami A, Rolland C, Sexton D, 
+Vardi M, Bernstein JA. Long-term safety 
+outcomes of prekallikrein (Fletcher fac￾tor) deficiency: a systematic literature re￾view of case reports. Allergy Asthma Proc 
+2020;41:10-8.
+22. Girolami A, Ferrari S, Cosi E, Samba￾do L, Girolami B. Prevalence of hyperten￾sion and its complications in congenital 
+prekallikrein deficiency: analysis of all 
+reported cases and clinical significance. 
+Blood Coagul Fibrinolysis 2015;26:560-3.
+23. Bernstein JA, Betschel SD, Busse PJ, et 
+al. Sustained effectiveness, tolerability, 
+and safety of long-term prophylaxis with 
+lanadelumab in hereditary angioedema: 
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+12 n engl j med nejm.org
+The new england journal of medicine
+the prospective, phase 4, nonintervention￾al EMPOWER real-world study. Adv Ther 
+2025;42:3882-901.
+24. Farkas H, Peter JG, Stobiecki M, et al. 
+Long-term safety and efficacy of once￾daily berotralstat in patients with heredi￾tary angioedema: APeX-S final results. Ann 
+Allergy Asthma Immunol 2025;135(3):311-
+319.e6.
+25. United States Securities and Exchange 
+Commission. Form 8-K. January 9, 2026 
+(https://ir.intelliatx.com/node/12426/html).
+26. Vafai SB, Täubel J, Ashdown T, et al. 
+In vivo base editing of PCSK9 with 
+VERVE-102 for hypercholesterolemia. N 
+Engl J Med. DOI: 10.1056/NEJMoa2601283.
+27. Verve Therapeutics announces up￾dates on its PCSK9 program. Press release 
+of Verve Therapeutics, Boston, April 2, 2024 
+(https://vervetx.gcs-web.com/news
+-releases/news-release-details/verve
+-therapeutics-announces-updates-its
+-pcsk9-program).
+28. Naddaf M. First trial of ‘base editing’ 
+in humans lowers cholesterol — but raises 
+safety concerns. Nature 2023;623:671-2.
+29. Simon A. The potential for base edit￾ing to treat diseases impacting the lungs: 
+ongoing data from the BEAM-302 clinical 
+trial in alpha-1 antitrypsin deficiency 
+(AATD). New York: American Thoracic 
+Society, May 2026 (https://beamtx.com/
+wp-content/uploads/2026/05/Amy-Simon
+-Presentation_ATS-2026_Draft-3
+_18May26_updated.pdf).
+30. Beam Therapeutics announces com￾pelling updated clinical data from the 
+ongoing phase 1/2 trial of BEAM-302 in 
+alpha-1 antitrypsin deficiency (AATD) to 
+support advancement to pivotal develop￾ment. Press release of Beam Therapeutics, 
+Cambridge, MA, March 25, 2026 (https://
+investors.beamtx.com/news-releases/
+news-release-details/beam-therapeutics
+-announces-compelling-updated-clinical
+-data/).
+31. Azmy V, Brooks JP, Hsu FI. Clinical 
+presentation of hereditary angioedema. 
+Allergy Asthma Proc 2020;41:Suppl 1:S18-
+S21.
+32. Broderick L, Foster AM, Waldman LT, 
+Bordone L, Valentine J, Yarlas A. The pa￾tient experience of hereditary angioede￾ma: findings from a racially diverse sam￾ple of adult patients. Orphanet J Rare Dis 
+2026;21:92.
+Copyright © 2026 Massachusetts Medical Society.
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+1
+SUPPLEMENTARY APPENDIX
+Supplement to: Lonvoguran Ziclumeran – in vivo CRISPR Gene Editing in Hereditary Angioedema
+Cohn DM, Gurugama P, et al.
+This appendix has been provided by the authors to give readers additional information about the work.
+Table of Contents Page
+Study sites, site principal investigators, subinvestigators, and site staff 2
+Contributors 6
+Supplemental methods 7
+Supplemental results 9
+Figure S1. HAELO study design 10
+Figure S2. CONSORT diagram 11
+Figure S3. Hereditary angioedema attacks over time 12
+Figure S4. Attack rate reduction subgroup analyses (week 5 through week 28) 13
+Figure S5. Hereditary angioedema attack rate reduction 14
+Figure S6. Aspartate aminotransferase and alanine aminotransferase over time 15
+Figure S7. Activated partial thromboplastin time over time 16
+Figure S8. Absolute reductions in total plasma kallikrein protein in patients in the lonvo-z 
+group, placebo group, and placebo to lonvo-z group
+17
+Figure S9. Plasma concentrations of lonvo-z analytes following 50 mg infusion 18
+Figure S10. Change from baseline in total plasma kallikrein protein level in patients in the 
+lonvo-z group, placebo group, and placebo to lonvo-z group
+19
+Table S1. Patient demographics and baseline characteristics 20
+Table S2. Representativeness of study patients 22
+Table S3. Investigator-confirmed HAE attacks week 1 through week 28 23
+Table S4. Descriptive summary of monthly rate of investigator-confirmed attacks 24
+Table S5. Summary of treatment-emergent adverse events within 1 day, within 28 days, 
+and >28 days post infusion
+25
+Table S6. Summary of treatment-related treatment-emergent adverse events 26
+Table S7. Summary of infusion-related reactions 27
+Table S8. Serum antidrug antibodies and anti-Cas9 protein antibodies 29
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+2
+Study sites, site principal investigators, subinvestigators, and site staff
+Study Site Principal Investigator Subinvestigator, Study 
+Coordinators, Site 
+Staff
+AARA Research Center William Lumry Kimberly Poarch
+Sunni Walton
+Joseph West
+Allergy & Asthma Clinical Research Joshua Jacobs Melanie Barrall
+Kelsey Ige
+Tara Mostofi
+Roy Orden
+Ninna-Cheriz Perez
+Siddharth Sandhu
+Amsterdam UMC - Locatie AMC Danny Cohn Anouar Aznou
+Niels Broekman
+Mats de Lange
+Renée de Meijer
+Franka Rotterdam
+Nanet Sons
+Daniela Stols-Gonçalves
+Petra Zweers
+AP-HM - Hôpital de la Timone Stephane Gayet Benoit Faucher
+Aurelie Larosa-Rivier
+Asthma & Allergy Associates PC Daniel Soteres Wendy Bulow
+James Fulton
+Jennifer Potter
+Deborah Sweet
+Tianna Voros
+Amy Vos
+Luke Webb
+Bernstein Clinical Research Center, LLC Jonathan Bernstein Karen Berendts
+David Bernstein
+Sherry Evans
+Cambridge University Hospitals, NHS 
+Foundation Trust
+Padmalal Gurugama Usmaan Ahmed
+Ross Beech
+Ioasaf Karafotias
+Megan McCullagh
+Yitong Shen
+Robert Yellon
+Campbelltown Hospital Constance Katelaris Pamela Burton
+Hannah Hu
+Joshua Jacob
+Karuna Keat
+Charité-Universitätsmedizen Berlin Markus Magerl Thomas Buttgereit
+Dimitra Gialama
+Leonie Herzog
+Julia Matzen
+Franklin Montplaisier 
+Velasquez
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+3
+Ulrika Nordenhake
+Kathrin Schön
+Carolina Vera Ayala
+CHU de Lille - Hôpital Claude Huriez David Launay Aurélien Chepy
+Amandine Martin
+Sebastien Sanges
+CHU Grenoble-Alpes - Hôpital Michallon Laurence Bouillet
+Melanie Arnaud
+Isabelle Boccon-Gibod
+Alexis Bocquet
+Orlane Chol
+Perrine Dumanoir
+Camille Egeley
+Henry Ford Health System Alan Baptist -
+Icahn School of Medicine at Mount Sinai Paula Busse Eugene Choo
+Jonathan Kessler
+IMMUNOe International Research Centers Isaac Melamed Maureen Collins
+Mary King
+Edan Sarid
+Carly Swint
+Joe Williams
+Massachusetts General Hospital Aleena Banerji
+Alexandria Hairston
+Winnie Li
+Benjamin Slawski
+Medical Research of Arizona Michael Manning Mauricia Arrendale
+Aaron Davis
+Briana Hernandez
+Jasmine Hernandez
+Laura Jochen
+Rebecca Koenigsberg
+Jean Nelson
+Rachael Stillwagon
+Hiral Thakrar
+Medizinische Hochschule Hannover Bettina Wedi Leonie Bernhard
+Nadine Ledwoch
+Helena Pham
+Heidi Reh
+Catharina Schumann
+Dorothea Wieczorek
+Melbourne Health - Royal Melbourne Hospital Samantha Chan Jack Godsell
+Susanne Schulz
+Kymble Spriggs
+Jessie Zhou
+New Zealand Clinical Research - Auckland Hilary Longhurst, Karen 
+Lindsay
+Rohan Ameratunga
+Leanne Barnett
+Aidan Cabezas-Hayes
+Victoria Cai
+Winnie Chen
+Phillipa Hiddleston
+Rohit Katial
+Sophie McKellar
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+4
+Christian Schwabe
+Wuttiporn Thummata
+Millie Wang
+NYU Langone Health - Long Island Mark Davis-Lorton Anita Farhi
+Chaomei Wu
+Optimed Research, LTD Donald McNeil Lindsey Cook
+Kaitlyn Copeland
+Ottawa Allergy Research Corporation William H. Yang Melissa Ballerscheff
+Derek Lanoue
+Timothy Olynych
+Hazelyn Torres
+Raffi Tachdjian, MD Raffi Tachdjian Akilah Beatty
+Aaron Chin
+Chantal Elizaga
+The Alfred Hospital Celia Zubrinich Kirsten Deckert
+Mark Hew
+Xuan-Vinh Kevin 
+Nguyen
+April Strong
+The Pennsylvania State University Milton S. 
+Hershey Medical Center
+Timothy Craig Gisoo Ghaffari
+Kara Grim
+Maria Henao
+Kristina Richwine
+Universitätsklinikum Frankfurt - Klinikum der 
+Johann Wolfgang Goethe Universität
+Emel Aygӧren-Pürsün Shimalee Andarawewa
+Magdalena Figat
+Ulf Henkemeier
+Andrea Kirchner
+Stefanie Klein
+Nikole Radani
+University of Alberta Adil Adatia Bruce Ritchie
+Abigail Hollman
+University of California, San Diego Marc Riedl Roxanne Lacy
+Tukisa Smith
+University of Cape Town Lung Institute - Lung 
+Clinical Research Unit
+Jonathan Peter Juliet Esterhuizen
+Helen Hoenck
+Cathryn Mcdougall
+Chantal Muller
+Melissa Ribeiro
+Laura Shunmugam
+Tessona Simbu
+Bukiwe Thwala
+Michelle van Rooyen
+University of South Florida Thomas Casale Eugenia Alas
+Darshana 
+Balasubramaniam
+Seong Cho
+Humdoon Choudhry
+Joshua Cox
+Jack Jeskey
+Dennis Ledford
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+5
+Amber Pepper
+Catherine Smith
+Megan Stonehocker
+Washington University in St. Louis James Wedner, Zhen 
+Ren
+Khaled Abdel-Hamid
+Megan Baldenweck
+Nipat Chuleerarux
+Charu Debnath
+Omar Elsayed-Ali
+Katharine Foster Nehme
+Chanill Henley
+Maya Ratna Jerath
+Jeremy Katcher
+Andrew Kau
+Matthew Lewis
+Tarisa Mantia
+Jennifer Monroy
+Susan Morand
+Jenny Anoj Patel
+Nisha Bhupesh Patel
+Rifat Rahman
+Kristina Skinner
+Natsumon 
+Udomkittivorakul
+Maria Fernanda 
+Villavicencio Jimenez
+Kyle Whittington
+Lana Womack
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+6
+Contributors
+DMC, HJL, EAP, TJC, HF, MM, MAR, DM, AG, MYS, JSB, DL, JL, and AB were involved in study 
+conception and design. DMC, PG, HJL, EAP, TJC, JJ, WRL, MM, JP, MAR, DM, AG, MYS, and AB 
+were involved in data collection. DM, AG, MYS, AS, CRM, AMA, YX, JSB, DL, and JL analyzed the 
+data. DMC, PG, HJL, EAP, TJC, JJ, WRL, MM, JP, MAR, and AB were investigators for the study. The 
+first draft of the manuscript was written by Jeffrey A. Blair, Ph.D., Ellen Woon, Ph.D., and Melissa 
+Austin of Helios Global Group (funded by Intellia Therapeutics). All authors contributed to the data 
+interpretation, review, editing, and approval of the manuscript for publication, and participated in the 
+decision to submit for publication. All authors assume responsibility for the completeness and accuracy of 
+the data and the fidelity of the trial, the manuscript, the protocol (available at NEJM.org), and the 
+statistical analysis plan. All authors had access to all data in the study and agreed to maintain 
+confidentiality of the data during manuscript development.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+7
+Supplemental Methods
+Crossover
+At week 28, all patients had the option to elect to receive a second blinded infusion of the opposite 
+treatment (crossover) from that received on day 1. Patients who did not participate in the crossover 
+followed an alternative schedule of activities at week 28 (see protocol).
+Statistical Analysis
+For the primary end point, simulations were used to assess the power using a generalized linear 
+model assuming a Poisson distribution with Pearson Chi-square scaling of standard error, which 
+accounted for attack data that are potentially over dispersed. It was assumed that patients in the placebo 
+group would have an average of 3 attacks per month for a total of 18 attacks from weeks 5-28, patients in 
+the lonvo-z group would have an average of 0.75 attacks per month for a total of 4.5 attacks from weeks 
+5-28, and 60% of patients in the lonvo-z group would be attack-free from week 5 through week 28. In 
+addition, a total of 2.5% and 15% of patients in the lonvo-z arm and the placebo arm, respectively, would 
+discontinue the study prior to week 28 assessment. Based on these assumptions, a total of 60 patients (40 
+in the lonvo-z arm and 20 in the placebo arm) would provide 99% power to reject the null hypothesis at a 
+2-sided alpha of 0.05 when the true hereditary angioedema (HAE) attack rate ratio is 0.25 (lonvo-z vs 
+placebo).
+Formal statistical hypothesis testing was performed on the primary and key secondary efficacy end
+points with the global family-wise type I error rate strongly controlled at a 2-sided 0.05 alpha level using 
+a hierarchical testing procedure. Specifically, the hypothesis on the primary end point was first tested at a 
+2-sided alpha of 0.05. The hypotheses on the key secondary end points were formally tested at the same 
+alpha level in the following order if the primary end point was found to be statistically significant:
+• Time-normalized number of investigator-confirmed HAE attacks requiring on-demand therapy
+from week 5 through week 28
+• Time-normalized number of moderate or severe investigator-confirmed HAE attacks from week 5 
+through week 28
+• Investigator-confirmed HAE attack-free status from week 5 through week 28
+• Change from baseline to week 28 in Angioedema Quality of Life (AE-QoL) Questionnaire total 
+score.
+All other secondary and exploratory end points were evaluated in a descriptive manner. 
+For HAE attack-related end points, baseline was defined as the time from the screening 2 visit to the 
+date of randomization. For AE-QoL end point, baseline was defined as the last assessment prior to 
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+8
+randomization. For safety and pharmacokinetic end points, baseline was defined as the last assessment 
+prior to the administration of study intervention. For plasma kallikrein protein levels, the average value of 
+3 samples collected prior to study intervention administration was used as baseline. 
+For patients who initiated long-term prophylaxis prior to the week 28 assessment, only attacks with 
+onset and AE-QoL data collected prior to the initiation of long-term prophylaxis were included in the 
+analysis (hypothetical strategy). All data were included in the analysis regardless of the use of any on￾demand medication or short-term prophylaxis (treatment policy strategy).
+Of the 16 patients who had not yet reached week 28 at the time of the data cutoff, complete 28-week 
+outcome data were unavailable. To evaluate the robustness of the primary and key secondary endpoint 
+analyses, the following prespecified supplementary and sensitivity analyses were conducted per the 
+statistical analysis plan:
+• A supplementary analysis was performed using the Efficacy Analysis Set, defined as all 
+randomized patients who received at least a partial dose of study intervention and had week 
+28 assessment. 
+• Sensitivity analyses using multiple imputation (MI) were performed under both a missing-at￾random (MAR) assumption and a more conservative jump-to-reference (J2R) assumption. 
+In addition, a supplementary analysis was performed for the primary endpoint using the Per-Protocol 
+Analysis Set. 
+Results from all supplementary and sensitivity analyses were highly consistent with those of the 
+main analyses, supporting the robustness of the findings, and are not reported here because they are 
+largely redundant with what is already presented and do not influence the interpretation of the efficacy 
+outcome.
+Plasma concentrations and concentration-time profiles were tabulated for the components of lonvo-z 
+(exogenous lipids [DMG-PEG2k and LP000001], Cas9 mRNA, and KLKB1 single guide RNA [sgRNA]). 
+Antidrug antibodies to lonvo-z and anti-Cas9 were summarized descriptively.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+9
+Supplemental Results
+Treatment Crossover
+At the time of the data cutoff date, 54 patients had opted to receive a second blinded infusion (lonvo-z
+to placebo, n=34; placebo to lonvo-z, n=20). 
+One patient (placebo to lonvo-z) permanently discontinued the infusion and did not receive the full 
+dose (2%, 1 mg lonvo-z infused) due to a grade 2 infusion-related reaction (IRR), which began shortly 
+after the start of infusion and included symptoms of lightheadedness, headache, and flushing. The 
+infusion was paused and symptoms resolved within 13 minutes of onset without treatment. The infusion 
+was restarted at a reduced infusion rate but then permanently discontinued shortly thereafter per 
+investigator decision. The symptoms and severity of this event were consistent with other reported IRRs
+(Longhurst HJ, et al. N Engl J Med 2024;390:432-44; Cohn DM, et al. N Engl J Med 2025;392:458-67). 
+Two patients (both placebo to lonvo-z) did not receive the full lonvo-z dose at crossover due to 
+reaching the infusion expiry time. One patient experienced a grade 2 IRR; symptoms included shortness 
+of breath (dyspnea), tachycardia, chest pain, and facial swelling (lips). The infusion was interrupted to 
+permit symptoms to resolve, and the patient received an additional dose of dexamethasone to manage 
+symptoms. The infusion resumed at a reduced infusion rate, which was well tolerated by the patient, but 
+ultimately could not be completed due to reaching the infusion expiry time (31%, 15.5 mg lonvo-z 
+infused). The other patient had multiple infusion interruptions due to line occlusions, which contributed to 
+reaching the infusion expiry time (79%, 39.5 mg lonvo-z infused).
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+10
+Figure S1. HAELO study design
+HAELO is a phase 3, placebo-controlled, double-blind, randomized study. At the screening 1 visit, 
+patients signed the informed consent form and started LTP washout. Patients must washout prior LTP 
+from within 5 half-lives prior to the start of the run-in period. Once washout was completed, patients had
+a screening 2 visit when they entered the run-in period. Access to on-demand treatment was required at all 
+times during the study, including the screening/run-in. Patients were randomized 2:1 and stratified by the 
+baseline number of investigator-confirmed hereditary angioedema attacks per month (>3 vs ≤3, month 
+defined as 28 days) determined during the run-in period. Infusion of lonvo-z or placebo occurred on day 1 
+and was administered intravenously over approximately 4 hours. At week 28, patients may have elected
+to receive a blinded infusion of the opposite treatment from that received at randomization (crossover).
+Patients are followed through week 104 at which point all patients are invited to enroll in the long-term 
+follow-up study (NCT06262399). LTP, long-term prophylaxis.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+11
+Figure S2. CONSORT diagram
+Flowchart of screening, enrollment, and allocation of patients in the phase 3 study of lonvo-z vs placebo 
+in patients with hereditary angioedema. Follow-up of all 80 patients in the study is ongoing as of the data 
+cutoff date, February 10, 2026. One patient in the placebo arm completed the first week 28 visit
+on the day of the data cutoff date but did not receive the crossover infusion until the day after the data
+cutoff date.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+12
+Figure S3. Hereditary angioedema attacks over time
+Horizontal blue bars represent the interval between the beginning of the run-in period for the individual 
+patient and the last assessment of that patient as of the data cutoff date. The severity and length of 
+angioedema attacks in individual patients during the 4- to 8-week screening period, the 28-week primary 
+observation period, and the postprimary observation period are represented by colored bars, with the 
+length of each bar indicating the duration of the attack. Patient data are presented from top to bottom 
+according to the study group, attack-free status, and length of follow-up. Of the 38% (20/52) of patients in 
+the lonvo-z arm who reported attacks from week 5-28, patients had a mean attack rate reduction of 72% 
+(SD 24.6). In patients who received placebo who continued to experience attacks (25/28), patients had a 
+mean 21% (SD 40.3) reduction of attacks. Two patients in the placebo group took concomitant LTP 
+therapy due to a high rate of attacks during the primary observation period. Angioedema attacks occurred 
+in multiple anatomical locations (abdominal, peripheral, laryngeal) in both groups. At week 28, all 
+patients had the option to elect to receive a second blinded infusion of the opposite treatment (crossover) 
+of that received on day 1. LTP, long-term prophylaxis; pt, patient.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+13
+Figure S4. Attack rate reduction subgroup analyses (week 5 through week 28)
+*Prior use of LTP at study entry was defined as the last dose of LTP being discontinued within 100 days 
+of screening 1 visit.
+Attack rate ratio was not estimable for age group ≥60 years and HAE-C1INH Type 2 due to small sample 
+sizes. All 3 patients ≥60 years in the lonvo-z group were attack-free from day 1 infusion through latest 
+follow-up and all 3 patients with HAE-C1INH Type 2 in the lonvo-z group were attack-free from day 1 
+infusion through latest follow-up.
+BMI, body mass index; HAE-C1INH, hereditary angioedema due to C1 inhibitor deficiency; LTP, long￾term prophylaxis; NE, not estimable.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+14
+Figure S5. Hereditary angioedema attack rate reduction
+A. Week 5 through week 28
+B. Week 1 through week 28
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+15
+Figure S6. Aspartate aminotransferase and alanine aminotransferase over time
+Absolute aspartate aminotransferase and alanine aminotransferase levels at baseline and at scheduled 
+study visits after infusion.
+A. Absolute aspartate aminotransferase levels
+B. Absolute alanine aminotransferase levels
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+16
+Figure S7. Activated partial thromboplastin time over time
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+17
+Figure S8. Absolute reductions in total plasma kallikrein protein in patients in the lonvo-z group, 
+placebo group, and placebo to lonvo-z group
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+18
+Figure S9. Plasma concentrations of lonvo-z analytes following 50 mg infusion
+Analytes rapidly declined from peak plasma concentrations at the end of lonvo-z 50 mg infusion, 
+followed by log-linear elimination to below limit of quantification within 2-4 weeks.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+19
+Figure S10. Change from baseline in total plasma kallikrein protein level in patients in the lonvo-z 
+group, placebo group, and placebo to lonvo-z group
+Baseline is the average values of samples collected prior to the administration of study intervention. For 
+patients in the placebo group who received lonvo-z as crossover, baseline is the average of 3 most recent 
+samples collected prior to lonvo-z crossover administration. BL, baseline.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+20
+Table S1. Patient demographics and baseline characteristics*
+Characteristic Lonvo-z 50 mg
+(N=52)
+Placebo
+(N=28)
+All Patients
+(N=80)
+Median age at screening (range) — yr 42.0 
+(23.0–71.0)
+40.0 
+(19.0–76.0)
+41.5 
+(19.0–76.0)
+Sex — no. (%)
+Female 35 (67) 20 (71) 55 (69)
+Male 17 (33) 8 (29) 25 (31)
+Ethnicity — no. (%)
+Hispanic or Latino 4 (8) 1 (4) 5 (6)
+Not Hispanic or Latino 47 (90) 27 (96) 74 (93)
+Unknown 1 (2) 0 (0) 1 (1)
+Race — no. (%)†
+White or Caucasian 46 (89) 21 (75) 67 (84)
+Black or African American 1 (2) 1 (4) 2 (3)
+American Indian or Alaska native 1 (2) 0 (0) 1 (1)
+Multiple 3 (6) 3 (11) 6 (8)
+Not reported 1 (2) 2 (7) 3 (4)
+Unknown 0 (0) 1 (4) 1 (1)
+HAE-C1INH — no. (%)‡
+Type 1 49 (94) 25 (89) 74 (93)
+Type 2 3 (6) 3 (11) 6 (8)
+HAE treatment prior to study enrollment — no. (%)§
+LTP 35 (67) 22 (79) 57 (71)
+ODT only 17 (33) 6 (21) 23 (29)
+LTP use prior to study enrollment — no. (%)§
+Lanadelumab 25 (48) 12 (43) 37 (46)
+C1 inhibitor 5 (10) 3 (11) 8 (10)
+Berotralstat 4 (8) 1 (4) 5 (6)
+Garadacimab 1 (2) 3 (11) 4 (5)
+Other‖ 2 (4) 3 (11) 5 (6)
+Best response to prior LTP — no. (%)
+Complete control (no attacks) 7 (14) 9 (32) 16 (20)
+Partial control 25 (48) 9 (32) 34 (43)
+No response 1 (2) 3 (11) 4 (5)
+Unknown 2 (4) 1 (4) 3 (4)
+Typical attack severity — no. (%)
+Mild 7 (14) 5 (18) 12 (15)
+Moderate 30 (58) 20 (71) 50 (63)
+Severe 15 (29) 3 (11) 18 (23)
+Mean number of HAE attacks per month in the 
+3 months prior to screening (SD)
+1.8 (2.07) 1.5 (1.73) 1.7 (1.95)
+Mean number of HAE attacks per month during the 
+run-in period (SD)
+3.51 (1.79) 3.54 (1.91) 3.52 (1.82)
+Mean AE-QoL total score at baseline (SD) 58.4 (18.05) 58.0 (12.54) 58.3 (16.25)
+*Percentages may not total 100 because of rounding.
+†Race was self-reported by the patient.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+21
+‡Hereditary angioedema with low C1 inhibitor levels (HAE-C1INH-Type 1) or impaired C1 inhibitor 
+function (HAE-C1INH-Type 2).
+§LTP prior to study enrollment was defined as the last dose of LTP being discontinued within 100 days of 
+the Screening-1 visit.
+‖Other LTP included ‘drugs used in hereditary angioedema,’ tranexamic acid, and danazol.
+AE-QoL, Angioedema-Quality of Life; C1INH, C1 inhibitor; HAE, hereditary angioedema; LTP, long￾term prophylaxis; ODT, on-demand treatment; SD, standard deviation.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+22
+Table S2. Representativeness of study patients
+Category
+Disease under 
+investigation
+Hereditary angioedema due to C1 inhibitor deficiency (HAE-C1INH)
+Special considerations related to:
+Sex and gender Males and females are affected equally at the genetic level. Symptoms are 
+sometimes more severe in female patients, possibly due to fluctuation in 
+female sex hormones, and this may contribute to a slightly higher likelihood of 
+diagnosis.
+Age HAE is an autosomal-dominant genetic disease where patients have the disease 
+from birth. The age of onset of attacks is variable, but the disease commonly 
+presents in childhood or adolescence. Patients continue having attacks 
+throughout their lifetime.
+Race or ethnic group There are no known differences in prevalence, disease pathophysiology, or 
+responses to treatment among racial or ethnic groups.
+Geography There are no known differences in prevalence in different countries. HAE is a 
+rare disease (1:50,000 population) and shares symptoms with other more 
+common diseases; therefore, this may contribute to patients being 
+misdiagnosed or underdiagnosed in countries where access to diagnostic tests 
+and evidence-based therapies is difficult or lacking.
+Other considerations HAE-C1INH is divided into 2 types: HAE-C1INH Type 1 (≈85% of patients) 
+and HAE-C1INH Type 2 (≈15% of patients). Attacks most often affect the 
+skin, gastrointestinal tract, and upper airway. The frequency and severity of 
+attacks is highly variable across patients.
+Overall 
+representativeness of 
+this study
+This was a phase 3 study of 80 adult patients with HAE-C1INH. The age 
+distribution of study patients was consistent with what is observed in adults 
+with HAE-C1INH. There was a lower number of men than women. Patients 
+were representative of patient populations in countries with study sites, which 
+have predominantly White or Caucasian populations. The number of patients 
+with HAE-C1INH Type 1 and HAE-C1INH Type 2 disease was representative 
+of the overall HAE-C1INH population. Patients had varying frequency and
+severity of HAE attacks, which is typical in patients with HAE.
+HAE, hereditary angioedema.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+23
+Table S3. Investigator-confirmed HAE attacks week 1 through week 28
+Endpoint (week 1-week 28) Lonvo-z 50 mg
+(n=52)
+Placebo
+(n=28)
+Number of investigator-confirmed HAE attacks per month—
+LS mean (95% CI)*
+,†
+0.32
+(0.20, 0.51)
+2.07
+(1.55, 2.75)
+Percent difference vs placebo (95% CI) -84%
+(-91%, -75%)
+Number of investigator-confirmed HAE attacks requiring on￾demand therapy— LS mean (95% CI)*
+,†
+0.23
+(0.14, 0.40)
+1.73
+(1.25, 2.39)
+Percent difference vs placebo (95% CI) -86%
+(-92%, -76%)
+Number of moderate or severe HAE attacks—LS mean (95% 
+CI)*
+,†
+0.14
+(0.08, 0.26)
+1.20
+(0.84, 1.70)
+Percent difference vs placebo (95% CI) -88%
+(-93%, -78%)
+*The mean number of HAE attacks per month is estimated using a Poisson regression model with Pearson chi￾square scaling of standard error with treatment arm and baseline attack rate (>3 vs ≤3 attacks per month) as 
+covariates. Baseline is defined as the time from date of screening 2 visit to randomization. A month is defined as 28 
+days.
+†For patients who initiated any long-term prophylaxis before the week 28 assessment, only attacks that started prior 
+to prophylaxis initiation were included in the analysis. For patients who did not reach week 28 assessment, all data 
+through their latest attack assessment were included.
+CI, confidence interval; HAE, hereditary angioedema; LS, least squares.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+24
+Table S4. Descriptive summary of monthly rate of investigator-confirmed attacks
+Lonvo-z 50 mg
+(n=52)
+Placebo
+(n=28)
+Monthly HAE attack rate, mean (SD)
+Baseline 3.51 (1.79) 3.54 (1.91)
+Week 5 through 28 0.33 (0.64) 2.70 (2.24)
+Percent change from baseline -89% (20.29) -29% (45.39)
+Week 5 through latest assessment 0.32 (0.63) 2.72 (2.23)
+Percent change from baseline -89% (20.06) -29% (45.73)
+Monthly HAE attack rate requiring on￾demand therapy, mean (SD)
+Baseline 2.82 (2.10) 2.81 (2.11)
+Week 5 through 28 0.25 (0.57) 2.41 (2.29)
+Percent change from baseline -89% (27.84) -6% (90.16)
+Week 5 through latest assessment 0.24 (0.56) 2.43 (2.28)
+Percent change from baseline -90% (27.80) -4% (92.01)
+Monthly moderate or severe HAE 
+attack rate, mean (SD)
+Baseline 2.21 (1.53) 2.23 (1.39)
+Week 5 through 28 0.16 (0.43) 1.78 (1.63)
+Percent change from baseline -92% (22.63) -15% (69.88)
+Week 5 through latest assessment 0.16 (0.44) 1.78 (1.62)
+Percent change from baseline -91% (22.89) -15% (68.08)
+Baseline is defined as the time from date of screening 2 visit to randomization. A month is defined as 28 
+days.
+The descriptive summary of HAE attacks per month was calculated for each patient as the number of 
+HAE attacks occurring during Week 5 to Week 28 divided by number of days the patient contributed to 
+the period and multiplied by 28 days.
+For patients who initiated any long-term prophylaxis after receiving study intervention, data were 
+censored at the time of long-term prophylaxis initiation, and only attacks that started prior to long-term 
+prophylaxis initiation were included in the analysis.
+HAE, hereditary angioedema; SD, standard deviation.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+25
+Table S5. Summary of treatment-emergent adverse events within 1 day, within 28 days, and >28 
+days post infusion
+Reported in >5% of patients in the lonvo-z group Lonvo-z 50 mg
+(n=52)
+Placebo to 
+Lonvo-z (n=20)
+Placebo
+(n=28)
+TEAEs within 1 day post infusion — no. (%)
+Infusion-related reaction 32 (62) 9 (45) 5 (18)
+Fatigue 5 (10) 1 (5) 1 (4)
+Headache 4 (8) 1 (5) 1 (4)
+TEAEs within 28 days post infusion — no. (%)
+Infusion-related reaction 32 (62) 9 (45) 5 (18)
+Headache 7 (14) 2 (10) 2 (7)
+Fatigue 6 (12) 1 (5) 1 (4)
+Back pain 4 (8) 2 (10) 2 (7)
+Abdominal pain 3 (6) 0 0
+TEAEs more than 28 days post infusion — no. 
+(%)*
+Nasopharyngitis 7 (14) 0 9 (32)
+Upper respiratory tract infection 6 (12) 1 (5) 2 (7)
+Headache 5 (10) 0 1 (4)
+Abdominal pain upper 4 (8) 0 0
+Influenza 4 (8) 0 1 (4)
+Fatigue 3 (6) 0 2 (7)
+Gastroenteritis 3 (6) 0 2 (7)
+*TEAEs that occurred more than 28 days post infusion are defined as those with a start date later than the 
+date of study intervention administration plus 28 days. For patients who received placebo on day 1 and 
+lonvo-z as crossover, the TEAE start date is relative to the date of lonvo-z crossover administration.
+TEAE, treatment-emergent adverse event.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+26
+Table S6. Summary of treatment-related treatment-emergent adverse events
+Treatment-related-emergent adverse events
+reported in >5% of patients in the lonvo-z group
+Lonvo-z 50 mg
+(n=52)
+Placebo to 
+Lonvo-z (n=20)
+Placebo
+(n=28)
+Any treatment-related adverse event 39 (75) 10 (50) 6 (21)
+Infusion-related reaction 32 (62) 9 (45) 5 (18)
+Fatigue 5 (10) 1 (5) 2 (7)
+Headache 3 (6) 0 0
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+27
+Table S7. Summary of infusion-related reactions
+Lonvo-z
+(n=52)
+Placebo –
+lonvo-z 
+(n=20)
+Lonvo-z 
+Total (n=72)
+Placebo
+(n=28)
+Any infusion-related reaction — no. (%) 32 (62) 9 (45) 41 (57) 5 (18)
+Median time to onset (range), h 0.2
+(0.0–7.6)
+0.2
+(0.0–4.7)
+0.2
+(0.0–7.6)
+1.0
+(1.0–7.6)
+Median duration (range), h 11.1
+(0.1–174.0)
+1.3
+(0.0–33.7)
+5.3
+(0.0–174.0)
+18.0
+(6.6–54.1)
+Resolved ≤24 h since onset — no. (%)* 23 (72) 8 (89) 31 (76) 4 (80)
+Resolved >24 h since onset — no. (%)* 9 (28) 1 (11) 10 (24) 1 (20)
+Symptoms in ≥5% patients in lonvo-z 
+total group — no. (%)
+Headache 14 (27) 2 (10) 16 (22) 3 (11)
+Flushing 9 (17) 5 (25) 14 (19) 1 (4)
+Chest pain/tightness 7 (14) 4 (20) 11 (15) 1 (4)
+Fever 8 (15) 1 (5) 9 (13) 0
+Nausea 8 (15) 1 (5) 9 (13) 0
+Back pain 6 (12) 2 (10) 8 (11) 2 (7)
+Myalgia 6 (12) 0 6 (8) 0
+Fatigue 5 (10) 1 (5) 6 (8) 2 (7)
+Chills/shivering 4 (8) 2 (10) 6 (8) 0
+Tachycardia 3 (6) 2 (10) 5 (7) 0
+Shortness of breath (dyspnea) 3 (6) 1 (5) 4 (6) 1 (4)
+Lightheadedness 2 (4) 2 (10) 4 (6) 2 (7)
+Infusion-related reaction management 
+— no. (%)
+No change to infusion 19 (37) 4 (20) 23 (32) 5 (18)
+At least one dose modification 7 (14) 4 (20) 11 (15) 0
+Infusion interruption 6 (12) 3 (15) 9 (13) 0
+Infusion rate reduced 1 (2) 0 1 (1) 0
+Infusion discontinuation 0 1 (5) 1 (1) 0
+Infusion modification not 
+applicable (IRR after infusion)
+6 (12) 1 (5) 7 (10) 0
+Use of concomitant medications 21 (40) 5 (25) 26 (36) 2 (7)
+Acetaminophen 14 (27) 3 (15) 17 (24) 2 (7)
+Ibuprofen 8 (15) 0 8 (11) 0
+Ondansetron 3 (6) 0 3 (4) 0
+Cetirizine 2 (4) 1 (5) 3 (4) 1 (4)
+Acetylsalicylic acid 0 1 (5) 1 (1) 0
+Alprazolam 1 (2) 0 1 (1) 0
+Dexamethasone phosphate 0 1 (5) 1 (1) 0
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+28
+Diphenhydramine 1 (2) 0 1 (1) 0
+Famotidine 1 (2) 0 1 (1) 0
+Hydrocortisone 1 (2) 0 1 (1) 0
+Mometasone furoate; 
+olopatadine hydrochloride 1 (2) 0 1 (1) 0
+Naproxen sodium 0 1 (5) 1 (1) 0
+Prednisone 1 (2) 0 1 (1) 0
+Sodium chloride 1 (2) 0 1 (1) 0
+Bilastine 0 0 0 1 (4)
+Rupatadine fumarate 0 0 0 1 (4)
+*The denominator is the number of patients with at least 1 IRR. Resolution categories for patients with 
+multiple IRRs were determined by the longest duration event. IRR symptoms occurring in more than 5% 
+of patients in the lonvo-z group and lasting >24 hours to 48 hours were headache, fever, nausea, back 
+pain, myalgia, and tachycardia. Symptoms of flushing in two patients and fatigue in one patient lasted 
+more than 48 hours. The maximum reported duration was 100 hours (4.2 days) for flushing and 174 hours 
+(7.3 days) for fatigue.
+IRR, infusion-related reaction.
+
+Supplement: HAELO Phase 3 Manuscript N Engl J Med
+29
+Table S8. Serum antidrug antibodies and anti-Cas9 protein antibodies
+Antidrug antibodies represent IgG and IgM antibodies to the lonvo-z lipid nanoparticle. Anti-Cas9 
+antibodies represent IgG and IgM antibodies to Cas9 protein, the product of Cas9 mRNA in lonvo-z.
+Lonvo-z Placebo
+Antidrug 
+antibodies
+(n=52)
+Anti-Cas9 
+antibodies 
+(n=52)
+Antidrug 
+antibodies
+(n=28)
+Anti-Cas9 
+antibodies 
+(n=28)
+Baseline — no. (%)*
+ Negative 51 (98) 52 (100) 26 (93) 28 (100)
+ Positive 1 (2) 0 2 (7) 0
+Postbaseline — no. (%)†
+ Negative 44 (85) 2 (4) 26 (93) 27 (96)
+ Positive 8 (15) 50 (96) 2 (7) 1 (4)
+*Baseline is defined as the last measurement prior to the start of study intervention infusion.
+†Postbaseline negative is defined as those who remained negative at all postinfusion time points. 
+Postbaseline positive is defined as those who were positive at ≥1 postinfusion time point. Antidrug 
+antibodies and anti-Cas9 antibodies were assessed pre-dose for day 1 infusion and crossover infusion and 
+at weeks 2, 5, 12, 32, 56, 80, 104.

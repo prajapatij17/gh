@@ -1,0 +1,784 @@
+n engl j med nejm.org 1
+The new england journal of medicine
+The authors’ affiliations are listed in the 
+Appendix. Dr. Cohn can be contacted at 
+d.m.cohn@amsterdamumc.nl or at Am￾sterdam University Medical Center, Mei￾bergdreef 9, Amsterdam, 1105 AZ, Nether￾lands.
+A complete list of subprincipal investiga￾tors and study-site coordinators in this trial 
+is provided in the Supplementary Appen￾dix, available at NEJM.org.
+This article was published on October 24, 
+2024, at NEJM.org.
+DOI: 10.1056/NEJMoa2405734
+Copyright © 2024 Massachusetts Medical Society.
+BACKGROUND
+Hereditary angioedema is a rare genetic disease characterized by severe and unpredict￾able swelling attacks. NTLA-2002 is an in vivo gene-editing therapy that is based on 
+clustered regularly interspaced short palindromic repeats (CRISPR)–CRISPR-associated 
+protein 9. NTLA-2002 targets the gene encoding kallikrein B1 (KLKB1). A single dose 
+of NTLA-2002 may provide lifelong control of angioedema attacks.
+METHODS
+In this phase 2 portion of a phase 1–2 trial, we randomly assigned adults with he￾reditary angioedema in a 2:2:1 ratio to receive NTLA-2002 in a single dose of 25 mg 
+or 50 mg or placebo. The primary end point was the number of angioedema attacks 
+per month (the monthly attack rate) from week 1 through week 16. Secondary end 
+points included safety, pharmacokinetics, and pharmacodynamics (i.e., the change 
+from baseline in total plasma kallikrein protein level); exploratory end points in￾cluded patient-reported outcomes.
+RESULTS
+Of the 27 patients who underwent randomization, 10 received 25 mg of NTLA-2002, 
+11 received 50 mg, and 6 received placebo. From week 1 through week 16, the esti￾mated mean monthly attack rate was 0.70 (95% confidence interval [CI], 0.25 to 
+1.98) with 25 mg of NTLA-2002, 0.65 (95% CI, 0.24 to 1.76) with 50 mg, and 2.82 
+(95% CI, 0.80 to 9.89) with placebo; the difference in the estimated mean attack rate 
+with NTLA-2002 as compared with placebo was −75% with 25 mg and −77% with 
+50 mg. Among patients who received NTLA-2002, 4 of the 10 patients who received 
+25 mg (40%) and 8 of the 11 who received 50 mg (73%) were attack-free with no 
+additional treatment during the period from week 1 through week 16. The most 
+common adverse events among patients who received NTLA-2002 were headache, 
+fatigue, and nasopharyngitis. The mean percent change in total plasma kallikrein 
+protein levels from baseline to week 16 was −55% with 25 mg and −86% with 50 mg; 
+levels remained unchanged with placebo.
+CONCLUSIONS
+NTLA-2002 administered in a single dose of 25 mg or 50 mg reduced angioedema 
+attacks and led to robust and sustained reduction in total plasma kallikrein levels in 
+patients with hereditary angioedema. These results support continued investigation 
+in a larger phase 3 trial. (Funded by Intellia Therapeutics; ClinicalTrials.gov number, 
+NCT05120830; EudraCT number, 2021-001693-33.)
+ABSTRACT
+CRISPR-Based Therapy 
+for Hereditary Angioedema
+Danny M. Cohn, M.D., Ph.D., Padmalal Gurugama, M.D., Markus Magerl, M.D., 
+Constance H. Katelaris, M.B., B.S., Ph.D., F.R.A.C.P., David Launay, M.D., Ph.D., 
+Laurence Bouillet, M.D., Ph.D., Remy S. Petersen, M.D., 
+Karen Lindsay, M.B., Ch.B., Emel Aygören‑Pürsün, M.D., David Maag, Ph.D., 
+James S. Butler, Ph.D., Mrinal Y. Shah, Ph.D., Adele Golden, Ph.D., 
+Yuanxin Xu, M.D., Ph.D., Ahmed M. Abdelhady, Ph.D., David Lebwohl, M.D., 
+and Hilary J. Longhurst, Ph.D., F.R.A.C.P.
+Original Article
+
+2 n engl j med nejm.org
+The new england journal of medicine
+Hereditary angioedema is a rare, 
+autosomal dominant disorder that af￾fects approximately 1 in 50,000 persons 
+worldwide. It is a debilitating and potentially 
+fatal condition that manifests as recurrent epi￾sodes of unpredictable swelling.1,2 Disease onset 
+often occurs in childhood, with attacks recur￾ring throughout a person’s lifetime at intervals 
+of every few days to weeks and commonly last￾ing 3 to 5 days when untreated.2
+ The most fre￾quently affected organs are the gastrointestinal 
+tract and the cutaneous tissues of the body; ef￾fects on the former are most often associated 
+with colicky pain, and effects on the latter can be 
+disabling or disfiguring.1-5 Furthermore, larynge￾al edema can lead to life-threatening airway ob￾struction and death by asphyxiation.1,2
+Hereditary angioedema is caused predominant￾ly by a number of variants in the gene SERPING1. 
+This gene encodes the protein C1 esterase in￾hibitor (C1INH), a key regulator in the contact 
+activation pathway and in bradykinin production 
+through inhibition of factor XIIa and plasma 
+kallikrein. These variants lead to either C1INH 
+deficiency (in type 1 disease) or C1INH dysfunc￾tion (in type 2 disease), either of which results 
+in excessive levels of bradykinin, which in turn 
+lead to episodes of increased vascular hyperper￾meability and subsequent swelling.1,2,6
+Plasma kallikrein is clinically validated as a 
+therapeutic target, with kallikrein inhibitors 
+approved for long-term prophylaxis.1,7-10 RNA￾silencing therapies that reduce plasma kallikrein 
+protein levels have also shown efficacy in clini￾cal trials.11-13 Inhibition or reduction of plasma 
+kallikrein reduces the amount of bradykinin.8
+Although new prophylactic treatments have de￾creased the frequency and severity of attacks and 
+improved the lives of persons with hereditary 
+angioedema in recent years, these treatments re￾quire regular and lifelong administration, which 
+affects overall quality of life.2,8,9,14-16
+NTLA-2002 is a nonviral gene-editing therapy 
+that is based on clustered regularly interspaced 
+short palindromic repeats (CRISPR)–CRISPR￾associated protein 9 (Cas9); it is delivered in a sin￾gle dose, administered intravenously.17 (CRISPR￾Cas9 is also known, and more accurately described, 
+as guide RNA–Cas9.) NTLA-2002 is designed to 
+permanently edit the gene encoding kallikrein B1, 
+KLKB1, in hepatocytes, the primary source of 
+plasma prekallikrein; this editing results in a re￾duction in the total plasma kallikrein protein lev￾el, which should prevent angioedema attacks.17-21
+Previously reported results from the phase 1 
+dose-escalation portion of this phase 1–2 trial 
+showed no dose-limiting toxic effects from a 
+single infusion of NTLA-2002 at a dose of 25 mg, 
+50 mg, or 75 mg. Patients had a sustained, dose￾dependent reduction in plasma kallikrein protein 
+levels and a 95% reduction from baseline in an￾gioedema attacks.17 Here, we report results from 
+the phase 2 portion of the phase 1–2 trial and 
+additional follow-up results from phase 1.
+Methods
+Trial Design and Oversight
+We conducted the phase 2 portion of this ongo￾ing, phase 1–2, double-blind, randomized, placebo￾controlled trial to evaluate the efficacy, safety, 
+pharmacodynamics, and pharmacokinetics of 
+NTLA-2002 at doses of 25 mg and 50 mg in 
+adults with hereditary angioedema. Patients were 
+enrolled at nine sites in Australia, France, Ger￾many, the Netherlands, New Zealand, and the 
+United Kingdom. The trial was approved by the 
+institutional review board or ethics committee at 
+each participating trial site. All patients provid￾ed written informed consent. The trial was per￾formed in accordance with the principles of the 
+Declaration of Helsinki and the current Good 
+Clinical Practice guidelines of the International 
+Council for Harmonisation. An independent data 
+monitoring committee provided trial oversight. 
+The contributions of individual authors are list￾ed in the Supplementary Appendix, available with 
+the full text of this article at NEJM.org. The trial 
+was conceived and designed by three authors 
+representing the sponsor and one academic au￾thor. Data were collected by authors from aca￾demic institutions and representatives of the 
+sponsor. Representatives of the sponsor ana￾lyzed the data. The first draft of the manuscript 
+was written by a representative of the sponsor 
+and sponsor-funded medical writers. All the 
+authors contributed to data interpretation, par￾ticipated in reviewing and editing earlier ver￾sions of the manuscript, agreed to submit the 
+manuscript for publication, and approved the 
+submitted version of the manuscript. The au￾thors vouch for the completeness and accuracy 
+of the data and for the fidelity of the trial to 
+the protocol (available at NEJM.org) and to the 
+
+n engl j med nejm.org 3
+CRISPR-Based Therapy for Hereditary Angioedema
+statistical analysis plan described in the protocol. 
+All the authors had access to all data in the trial 
+and agreed to maintain confidentiality of the data 
+during manuscript development.
+Patients
+Eligible patients were at least 18 years of age, 
+had received a diagnosis of type 1 or type 2 he￾reditary angioedema, and had had three or more 
+investigator-confirmed angioedema attacks with￾in 90 days before the screening period and two 
+or more investigator-confirmed attacks during 
+the 8-week screening period. Patients were not 
+permitted to use prophylactic therapies within 
+five half-lives before the beginning of the screen￾ing period through the end of the 16-week pri￾mary observation period. Full eligibility criteria 
+are listed in the protocol.
+Randomization and Treatment
+Patients were randomly assigned in a 2:2:1 ratio 
+to receive NTLA-2002 administered intravenously 
+in a single dose of 25 mg or 50 mg or a placebo 
+saline solution. Dose levels of 25 mg and 50 mg 
+were selected on the basis of results from the 
+phase 1 study.17 On day 1, NTLA-2002 or placebo 
+was administered by infusion over the course of 
+2 to 6 hours. To mitigate the risk of infusion￾related reactions, patients followed a pretreat￾ment regimen on the day before and the day of 
+infusion, as described previously17 and in the 
+protocol. In brief, 8 to 24 hours before infusion, 
+an oral dose of a glucocorticoid was adminis￾tered; 1 to 2 hours before infusion, prophylactic 
+treatment consisting of a glucocorticoid, an H1
+blocker, and an H2
+ blocker was administered. 
+C1INH therapy was required to be available at 
+the bedside during the infusion in case of unex￾pected onset of a swelling attack. All patients 
+were permitted to use on-demand medication 
+for angioedema attacks at their own discretion 
+at any time during the trial; permitted and pro￾hibited concomitant medications are listed in 
+the Supplementary Appendix. The primary ob￾servation period was the first 16 weeks after 
+infusion, and this period was followed by a long￾term observation period of 88 weeks.
+Clinical Assessment
+Each patient recorded angioedema symptoms, 
+attacks, and treatments in an electronic diary. 
+An investigator reviewed the diary at each trial 
+visit to confirm whether an event represented an 
+attack due to angioedema. Blood and urine sam￾ples for pharmacodynamic and pharmacokinetic 
+analyses were obtained at each trial visit in ac￾cordance with the schedule of activities. Adverse 
+events were graded according to the National 
+Cancer Institute Common Terminology Criteria 
+for Adverse Events, version 5.0.22 Additional tests 
+and evaluations performed at each visit are de￾scribed in the protocol.
+Trial End Points
+The primary end point was the number of angio￾edema attacks per month (the monthly attack 
+rate) during the primary observation period, 
+with a month defined as 28 days. Secondary end 
+points included safety (assessed on the basis of 
+adverse events, which were defined as any events 
+that began or worsened after the administration 
+of NTLA-2002 or placebo), the number of angio￾edema attacks per month from week 5 through 
+week 16, the number of angioedema attacks per 
+month from week 1 through week 16 and from 
+week 5 through week 16 that resulted in the use 
+of on-demand therapy, the number of moderate 
+or severe angioedema attacks per month from 
+week 5 through week 16, the change from base￾line in the total plasma kallikrein protein level, 
+and plasma concentrations of the components 
+of NTLA-2002 (exogenous lipids [LP000001 and 
+DMG-PEG2k], Cas9 messenger RNA, and KLKB1
+single guide RNA). Exploratory end points in￾cluded the change from baseline in the use of 
+on-demand medication for angioedema attacks, 
+the change from baseline in plasma kallikrein 
+protein activity, and the change from baseline in 
+quality-of-life variables assessed by the Moxie An￾gioedema Quality of Life questionnaire (AE-QoL) 
+and other measures as described in the proto￾col. The AE-QoL is a validated, angioedema￾specific assessment of patient-reported outcomes. 
+Scores for each of the four individual domains 
+and total scores range from 0 to 100, with 
+lower scores indicating less impairment; the 
+minimal clinically important difference is de￾fined as a change of 6 points in the AE-QoL 
+total score.23
+Statistical Analysis
+We planned to enroll a total of up to 25 patients 
+(20 patients in the NTLA-2002 groups and 5 in 
+the placebo group) in the phase 2 portion of the 
+
+4 n engl j med nejm.org
+The new england journal of medicine
+trial. The sample size was not determined by a 
+formal power analysis but was selected to pro￾vide an adequate number of patients for overall 
+evaluation of the efficacy, safety, pharmacody￾namics, and pharmacokinetics of NTLA-2002 at 
+doses of 25 mg and 50 mg. No formal statistical 
+testing was planned. The primary analysis was 
+performed when the 25th patient reached week 
+16. We analyzed the primary end point using a 
+negative binomial regression model, adjusting 
+for the baseline monthly attack rate. The least￾squares mean monthly attack rate and the cor￾responding 95% confidence interval for each 
+trial group, as well as the mean ratio of the 
+monthly attack rate with NTLA-2002 relative to 
+that with placebo and the corresponding 95% 
+confidence interval, were estimated with this 
+model. The 95% confidence intervals presented 
+have not been adjusted for multiplicity and should 
+not be used in place of hypothesis testing.
+The full analysis population, which was used 
+for efficacy analyses, included all patients who 
+underwent randomization. The safety analysis 
+population included all patients who underwent 
+randomization and received at least a partial 
+dose of NTLA-2002 or placebo. Additional in￾formation regarding the statistical analysis is 
+provided in the Supplementary Appendix.
+Results
+Patients
+Of 36 patients screened, 27 underwent random￾ization: 10 patients were assigned to receive 25 mg 
+of NTLA-2002, 11 were assigned to receive 50 mg, 
+and 6 were assigned to receive placebo. Seven 
+patients were ineligible according to prespecified 
+criteria, and 2 withdrew consent before enroll￾ment (Fig. S1 in the Supplementary Appendix). 
+As of April 4, 2024 (the data-cutoff date), the 
+median follow-up time was 8.2 months (range, 
+4.4 to 11.8) in the 25-mg group, 5.6 months 
+(range, 2.9 to 11.5) in the 50-mg group, and 6.9 
+months (range, 1.9 to 12.5) in the placebo 
+group. At the time of analysis, 2 patients had not 
+had a week 16 assessment; however, all patients 
+were included in the primary and follow-up 
+analyses. The baseline characteristics of pa￾tients in the NTLA-2002 and placebo groups 
+were similar (Table 1). Table S1 provides infor￾mation on the representativeness of the patient 
+population studied. The median age was 48 
+years (range, 18 to 61) in the NTLA-2002 groups 
+and 47 years (range, 31 to 76) in the placebo 
+group; 57% of patients in the NTLA-2002 groups, 
+as compared with 33% in the placebo group, 
+were men.
+Efficacy
+The mean monthly attack rate at baseline was 
+3.6 in both the 25-mg and 50-mg groups and 3.7 
+in the placebo group. During the 16-week primary 
+observation period, the estimated mean monthly 
+attack rate (adjusted for the baseline value) was 
+0.70 (95% confidence interval [CI], 0.25 to 1.98) in 
+the 25-mg group, 0.65 (95% CI, 0.24 to 1.76) in 
+the 50-mg group, and 2.82 (95% CI, 0.80 to 9.89) 
+in the placebo group. The mean difference in 
+the monthly attack rate with NTLA-2002 as 
+compared with placebo was −75% (95% CI, −95 
+to 27) with 25 mg and −77% (95% CI, −95 to 15) 
+with 50 mg (Table 2, Fig. 1, and Fig. S2). Simi￾lar results were observed for the monthly attack 
+rate from week 5 through week 16. The mean 
+(±SD) percent change from baseline in the 
+monthly attack rate from week 1 through week 
+16 was −78.1±30.4% with 25 mg of NTLA-2002, 
+−79.5±42.0% with 50 mg, and −16.3±41.6% with 
+placebo (Table S2). Among patients who received 
+NTLA-2002, four (40%) in the 25-mg group and 
+eight (73%) in the 50-mg group were attack-free 
+and received no other treatment between week 1 
+and week 16. No patients in the placebo group 
+were free of attacks during this period (Fig. S3). 
+All eight patients in the 50-mg group who were 
+attack-free during the primary observation peri￾od remained attack-free as of the latest assess￾ment. The estimated mean difference between 
+the NTLA-2002 groups and the placebo group 
+in the number of angioedema attacks per month 
+that resulted in on-demand therapy during week 
+1 through week 16 was −74% (95% CI, −95 to 51) 
+with 25 mg of NTLA-2002 and −77% (95% CI, 
+−96 to 39) with 50 mg; the estimated mean dif￾ference in the number of moderate-to-severe at￾tacks per month with NTLA-2002 as compared 
+with placebo was −78% (95% CI, −96 to 26) with 
+25 mg and −85% (95% CI, −97 to −11) with 50 mg 
+(Table S3). After week 16, four patients who had 
+received placebo and two patients who had re￾ceived NTLA-2002 (one in each dose group) re￾sumed long-term prophylaxis (Fig. 1).
+
+n engl j med nejm.org 5
+CRISPR-Based Therapy for Hereditary Angioedema
+Safety
+All patients received the intended dose of NTLA￾2002 or placebo. The most common adverse 
+events (those that occurred in ≥25% of patients) 
+in the two NTLA-2002 groups combined were 
+headache (in 38% of patients), fatigue (in 29%), 
+and nasopharyngitis (in 29%) (Table 3). All ad￾verse events were grade 1 or 2 except for one 
+event that occurred in a patient in the placebo 
+group who had a serious adverse event of 
+grade 4 edema of the tongue with breathing 
+impairment, which was attributed to the under￾lying hereditary angioedema. No other serious 
+adverse events occurred. Grade 2 infusion-related 
+reactions were reported by two patients receiv￾ing NTLA-2002 (one in each treatment group), 
+which led to temporary interruption of the infu￾sion. In each instance, the reaction resolved 
+without sequelae, and both patients received the 
+full dose with the use of reduced infusion rates. 
+All other infusion-related reactions were grade 1 
+(Table S4); symptoms of infusion-related reactions 
+Table 1. Characteristics of the Patients at Baseline.
+Characteristic
+NTLA-2002, 25 mg
+(N=10)
+NTLA-2002, 50 mg
+(N=11)
+Placebo
+(N=6)
+Median age (range) — yr 48.5 (34–61) 44.0 (18–61) 47.0 (31–76)
+Male sex — no. (%) 7 (70) 5 (45) 2 (33)
+Race or ethnic group — no. (%)*
+White 9 (90) 11 (100) 6 (100)
+Pacific Islander 1 (10) 0 0
+Median weight (range) — kg 89 (58–133) 78 (56–107) 79 (50–92)
+Type of hereditary angioedema — no. (%)
+C1INH type 1 8 (80) 10 (91) 5 (83)
+C1INH type 2 2 (20) 1 (9) 1 (17)
+Previous receipt of long-term prophylaxis — no. (%) 6 (60) 6 (55) 5 (83)
+Long-term prophylaxis before trial enrollment — no. (%)
+Lanadelumab 2 (20) 2 (18) 1 (17)
+Attenuated androgens 2 (20) 1 (9) 2 (33)
+Berotralstat 1 (10) 2 (18) 1 (17)
+C1INH 1 (10) 0 1 (16.7)
+Tranexamic acid 0 1 (9) 0
+Typical severity of angioedema attacks — no. (%)
+Mild 1 (10) 0 1 (17)
+Moderate 6 (60) 9 (82) 4 (67)
+Severe 3 (30) 2 (18) 1 (17)
+Previous occurrence of laryngeal attacks — no. (%)† 6 (60) 5 (45) 4 (67)
+Median no. of angioedema attacks during historical 
+attack period (range)‡
+6.5 (3–24) 4.0 (3–11) 5.5 (3–9)
+Type of angioedema attack — no. (%)†
+Peripheral 8 (80) 9 (82) 6 (100)
+Abdominal 9 (90) 9 (82) 6 (100)
+Laryngeal 6 (60) 5 (45) 4 (67)
+* Race or ethnic group was reported by the patients.
+† Included are patients who had the indicated type of attack at any point in their medical history.
+‡ The historical attack period is defined as the 90 days before the screening period, which coincided with the washout 
+of any long-term prophylaxis medications taken by patients before trial enrollment.
+
+6 n engl j med nejm.org
+The new england journal of medicine
+that were reported included back pain, flushing, 
+noncardiac chest pain, generalized tingling, neck 
+pain, and tight chest. One patient who received 
+25 mg of NTLA-2002 had an asymptomatic 
+grade 2 increase in the alanine aminotransferase 
+level on day 22, which was considered by the 
+trial site investigator to be possibly related to 
+treatment with NTLA-2002. The patient’s alanine 
+aminotransferase level decreased to a grade 1 
+level by day 28 and returned to normal by week 8. 
+No clinically significant laboratory results were 
+recorded for any patients.
+Pharmacodynamics and Pharmacokinetics
+Total plasma kallikrein protein levels were re￾duced from baseline levels in a dose-dependent 
+manner in patients who received NTLA-2002, with 
+a mean percent change from baseline to week 16 
+of −55±23% with 25 mg and −86±6.9% with 
+50 mg; levels remained unchanged in the placebo 
+group (Fig. 2). Pharmacokinetic data are summa￾rized in Figure S4.
+Patient-Reported Outcomes
+Patients in the NTLA-2002 groups had greater 
+improvement from baseline in the AE-QoL total 
+score at week 16 than those in the placebo group, 
+with a mean change from baseline of −10.8±10.9 
+in the 25-mg group, −18.2±17.2 in the 50-mg 
+group, and −3.5±10.4 in the placebo group 
+(Fig. S5). Among the four domains of the AE-QoL, 
+patients treated with NTLA-2002 had the great￾est improvement in the functioning domain, 
+with a mean change from baseline of −22.8±16.0 
+in the 25-mg group and −25.0±19.4 in the 50-mg 
+group.
+Phase 1 Update
+As of February 12, 2024, the 10 patients treated 
+with NTLA-2002 in phase 1 had a median follow￾up time of 20.1 months, which represents ap￾proximately 1 year of additional follow-up after 
+the data-cutoff date for the initial report.17 The 
+additional data show that the pharmacodynamic 
+and clinical responses have been durable and 
+ongoing, and no unexpected safety events have 
+occurred (see the Supplementary Appendix).
+Discussion
+In this placebo-controlled trial of a systemically 
+delivered, in vivo CRISPR-Cas9–based therapy, 
+the frequency of angioedema attacks was lower 
+among patients who received a one-time infu￾sion of NTLA-2002 at a dose of 25 mg or 50 mg 
+than among those who received placebo. Of 
+11 patients who received 50 mg of NTLA-2002, 
+8 were attack-free during the period from week 1 
+through week 16, a result that is consistent 
+with the greater and more stable reductions 
+achieved in total plasma kallikrein protein levels 
+with 50 mg than with 25 mg. Among the 10 pa￾tients who received 25 mg, only 4 were attack-free.
+Of the three patients who received 50 mg of 
+NTLA-2002 and were not attack-free during the 
+primary observation period, one (patient 2) had 
+a reduction of 73% from baseline in the month￾ly attack rate. The other two patients in the 50-mg 
+group (patients 1 and 7) had more modest, albeit 
+clinically meaningful, reductions from baseline 
+in the frequency of angioedema attacks. From 
+week 1 through week 16, patient 1 had 2.5 attacks 
+per month, an increase of 29% from baseline. 
+Table 2. Mean Number of Investigator-Confirmed Angioedema Attacks per Month.*
+Variable
+NTLA-2002, 25 mg
+(N=10)
+NTLA-2002, 50 mg
+(N=11)
+Placebo 
+(N=6)
+Weeks 1 through 16
+Mean no. of attacks per month (95% CI) 0.70 (0.25–1.98) 0.65 (0.24–1.76) 2.82 (0.80–9.89)
+Percent difference vs. placebo (95% CI) −75 (−95 to 27) −77 (−95 to 15)
+Weeks 5 through 16
+Mean no. of attacks per month (95% CI) 0.64 (0.21–1.94) 0.59 (0.20–1.71) 3.14 (0.84–11.80)
+Percent difference vs. placebo (95% CI) −80 (−96 to 14) −81 (−97 to 3)
+* The mean number of angioedema attacks per month was estimated with the use of a negative binomial model with the 
+trial group and the number of attacks per month at baseline as independent variables. Baseline is defined as the period 
+from the date of informed consent to randomization. A month is defined as 28 days.
+
+n engl j med nejm.org
+7
+CRISPR-Based Therapy for Hereditary Angioedema
+Figure 1. Angioedema Attacks before and after Administration of NTLA-2002.
+The severity and length of angioedema attacks in individual patients during the 8-week screening period, the 16-week primary observation period, and the post–primary observa￾tion period are represented by colored bars, with the width of each bar indicating the duration of the attack. Patient data are presented from top to bottom according to the trial 
+group and length of follow-up. Baseline is defined as the period from the date of informed consent to randomization. Gray bars represent the interval between the beginning of 
+the screening period for the individual patient and the last assessment of that patient as of the data-cutoff date. Bars that end in arrowheads indicate that the patient is still par￾ticipating in the trial. Patients were permitted to resume long-term prophylaxis after week 16.
+Administration
+of NTLA-2002
+Primary Observation Period Post-Primary Observation Period Screening
+Severity of Attack: Mild Moderate Severe
+−10 −8 −6 −4 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58
+Week
+Change in
+Plasma
+Kallikrein
+Level from
+Baseline
+to Latest
+Assessment
+Patient
+No.
+−80% 12 −100%
+−80% 13 −20%
+−56% 14 −100%
+−49% 15 −100%
+−72% 16 −100%
+−46% 17 −64%
+−32% 18 −92%
+−36% 19 −96%
+−15% 20 −79%
+−84% 21 −30%
+−91% 1 29%
+−89% 2 −73%
+−84% 3 −100%
+−91% 4 −100%
+−90% 5 −100%
+−90% 6 −100%
+−78% 7 −31%
+−81% 8 −100%
+−91% 9 −100%
+−73% 10 −100%
+−91% 11 −100%
+−18% 22 −12%
+−22% 23 −80%
+15% 24 −29%
+14% 26 11%
+54% 27 −31%
+29% 25 43%
+Change in
+Attack Rate
+between
+Baseline
+and Weeks
+1–16 
+NTLA-2002,
+50 mg
+NTLA-2002,
+25 mg
+Placebo
+Start of prophylaxis
+
+8 n engl j med nejm.org
+The new england journal of medicine
+However, in the post–primary observation peri￾od during which patients remained unaware of 
+their group assignments (week 16 until the data￾cutoff point — 221 days for patient 1), patient 1 
+had a monthly attack rate of 0.89, a reduction of 
+54% from baseline, before resuming treatment 
+with berotralstat. Patient 7 had 3.75 attacks per 
+month from week 1 through week 16, a reduc￾tion of 31% from baseline. In the post–primary 
+observation period (48 days for patient 7), the 
+monthly attack rate decreased to 2.92, an overall 
+reduction of 46% from baseline, and this patient 
+had not resumed any long-term prophylaxis. Both 
+patients reported having had frequent break￾through attacks while they were taking plasma 
+kallikrein inhibitor medications (berotralstat 
+and lanadelumab, respectively) before participat￾ing in the trial. Both had baseline plasma kalli￾krein protein levels similar to those of other 
+patients, and both had large and durable reduc￾tions in total plasma kallikrein protein levels 
+(91% and 78%, respectively). Whether these 
+patients would benefit further from greater re￾ductions in plasma kallikrein protein levels or 
+activity or whether other, unknown mecha￾nisms underpin the remaining symptoms is 
+unclear.
+Updated data from the phase 1 portion of the 
+trial, with a median follow-up time of 20.1 months, 
+suggest that NTLA-2002 provides a sustained, 
+long-term benefit. Reduced plasma kallikrein 
+protein levels have remained stable in phase 1 pa￾tients. As of the latest follow-up, the monthly 
+attack rate had decreased by 98% from baseline, 
+and 8 of 10 patients have remained attack-free 
+since the end of the primary observation period. 
+These sustained reductions in plasma kallikrein 
+protein levels are consistent with the findings from 
+preclinical studies of NTLA-200219,20 and suggest 
+that the effects of KLKB1 editing have persisted 
+Table 3. Adverse Events after the Administration of NTLA-2002 or Placebo.*
+Event
+NTLA-2002, 25 mg
+(N=10)
+NTLA-2002, 50 mg
+(N=11)
+NTLA-2002, Any Dose
+(N=21)
+Placebo
+(N=6)
+number of patients (percent)
+Any adverse event† 10 (100) 11 (100) 21 (100) 6 (100)
+Any serious adverse event 0 0 0 1 (17)‡
+Adverse events
+Headache 4 (40) 4 (36) 8 (38) 1 (17)
+Fatigue 3 (30) 3 (27) 6 (29) 2 (33)
+Nasopharyngitis 3 (30) 3 (27) 6 (29) 2 (33)
+Back pain 3 (30) 2 (18) 5 (24) 0
+Upper respiratory tract infection 3 (30) 2 (18) 5 (24) 1 (17)
+Cough 3 (30) 1 (9) 4 (19) 0
+Infusion-related reaction 1 (10) 3 (27) 4 (19) 1 (17)
+Covid-19 2 (20) 1 (9) 3 (14) 1 (17)
+Ear infection 2 (20) 0 2 (10) 0
+Epistaxis 0 2 (18) 2 (10) 1 (17)
+Influenza-like illness 1 (10) 1 (9) 2 (10) 0
+Oropharyngeal pain 1 (10) 1 (9) 2 (10) 1 (17)
+Pyrexia 0 2 (18) 2 (10) 0
+Sinusitis 1 (10) 1 (9) 2 (10) 0
+* Adverse events that occurred in at least two patients after the administration of NTLA-2002 (at either dose) or placebo 
+are listed according to preferred terms in the Medical Dictionary for Regulatory Activities, version 24.0. Covid-19 denotes 
+coronavirus disease 2019.
+† All events were grade 1 or 2 except for one grade 4 event, edema of the tongue, that occurred in a patient in the placebo 
+group.
+‡ This patient had grade 4 edema of the tongue.
+
+n engl j med nejm.org 9
+CRISPR-Based Therapy for Hereditary Angioedema
+through a substantial amount of hepatocyte 
+turnover, given that a recent study showed that 
+approximately 19% of hepatocytes are replaced 
+each year in a healthy human liver.21 No phase 1 
+patients have resumed long-term prophylaxis. In 
+the combined analysis of phase 1–2 data, a total 
+of 12 of 15 patients (80%) who received 50 mg 
+of NTLA-2002 have remained attack-free for pe￾riods ranging from 12 weeks (phase 2) to ap￾proximately 19 months (phase 1), with observa￾tion ongoing.
+No unexpected safety concerns arose from 
+this phase 2 trial, and the safety of NTLA-2002 
+is further supported by additional follow-up data 
+from phase 1. In phase 2, all adverse events were 
+grade 1 or 2 except for one grade 4 serious ad￾verse event of tongue swelling due to underlying 
+hereditary angioedema, which occurred in a pa￾tient who received placebo. Infusion-related re￾actions were grade 1 or, in two patients, grade 2; 
+these resolved without sequelae. Among a total 
+of 31 patients who received NTLA-2002 in phas￾es 1 and 2, there were no adverse events of 
+grade 3 or higher, no serious adverse events, and 
+no clinically significant shifts in coagulation vari￾ables. In one patient, an increase in the alanine 
+aminotransferase level (grade 2, clinically non￾significant) was observed.
+Hereditary angioedema is associated with a 
+substantial disease burden, which affects quality 
+of life both during and between attacks. Patients 
+who received NTLA-2002 had clinically mean￾ingful improvements in AE-QoL scores as com￾pared with those who received placebo.23
+Potential limitations of this trial include the 
+small sample size, nonstratified randomization, 
+the short duration of follow-up, and a primary 
+observation period of only 16 weeks. Further￾more, although the race and ethnicity of the 
+trial population represent those of persons with 
+hereditary angioedema in the countries in which 
+the trial was carried out, they do not reflect the 
+racial and ethnic groups affected by hereditary 
+angioedema more generally. Baseline monthly 
+attack rates and historical attack severity were 
+well balanced among the groups, and the inci￾dence of the disease is not known to be affected 
+by racial or ethnic demographics,24 which sug￾gests that these limitations do not substantially 
+affect the interpretation of the data.
+Figure 2. Change from Baseline in Total Plasma Kallikrein Protein Levels over Time According to Trial Group.
+Shown is the mean percent change from baseline in the total plasma kallikrein protein level in the NTLA-2002 and 
+placebo groups. I bars indicate standard deviations. The dashed line represents the targeted minimum reduction.17
+For postbaseline assessments, data from scheduled visits completed by at least three patients in each group are 
+presented. Percent Change
+40
+20
+30
+10
+0
+−20
+−30
+−10
+−40
+−50
+−60
+−70
+−80
+−90
+−100
+Base￾line
+2 4 8 16 24 32 40
+Weeks in Trial
+Placebo
+NTLA-2002, 25 mg
+NTLA-2002, 50 mg
+6
+10
+11
+6
+10
+11
+6
+10
+11
+5
+10
+11
+5
+10
+10
+4
+6
+5
+3
+6
+5
+4
+3
+No. at Risk
+Placebo (N=6) NTLA-2002, 25 mg (N=10) NTLA-2002, 50 mg (N=11)
+
+10 n engl j med nejm.org
+The new england journal of medicine
+In this phase 2 placebo-controlled trial, with 
+additional data from phase 1 follow-up, treat￾ment with NTLA-2002 resulted in a reduction in 
+angioedema attacks and a dose-dependent re￾duction in total plasma kallikrein protein levels. 
+Furthermore, many patients treated with NTLA￾2002 seemed to have a complete response to 
+treatment, with no angioedema attacks occur￾ring in the absence of additional treatment 
+(prophylactic or on-demand). No new safety 
+concerns arose, and no serious adverse events 
+occurred in patients who received NTLA-2002. 
+These results show the potential of a single dose 
+of the new CRISPR-Cas9–based in vivo gene￾editing therapy NTLA-2002 to be a functional 
+cure for patients with hereditary angioedema and 
+support continued investigation in a larger phase 
+3 trial.
+Supported by Intellia Therapeutics.
+Disclosure forms provided by the authors are available with 
+the full text of this article at NEJM.org.
+A data sharing statement provided by the authors is available 
+with the full text of this article at NEJM.org.
+We thank the patients and their caregivers and support staff; 
+and Justine Lempart, Ph.D., C.M.P.P., James Banigan, Ph.D., 
+C.M.P.P., and Shannon Davis of Apollo Medical Communica￾tions, part of the Helios Global Group, for medical writing 
+and editorial support with an earlier version of the manuscript 
+(funded by Intellia Therapeutics).
+This article is dedicated to the memory of our friend and col￾league Marcus Maurer, who has inspired and brought together 
+many people in the field of angioedema research over the last 
+25 years. We have lost a unique and extraordinary person; we 
+will remember him as a bubbling source of ideas, an experi￾enced advisor, an inspiring speaker, a gifted organizer, and an 
+enthusiastic networker. May he rest in peace.
+Appendix
+The authors’ affiliations are as follows: Amsterdam Cardiovascular Sciences, Amsterdam University Medical Center, University of Am￾sterdam, Amsterdam (D.M.C., R.S.P); Cambridge University Hospitals, NHS Foundation Trust, Cambridge, United Kingdom (P.G.); the 
+Institute of Allergology, Charité-Universitätsmedizin Berlin, Freie Universität Berlin and Humboldt-Universität zu Berlin, and Immunol￾ogy and Allergology, Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Berlin (M.M.), and the Department of 
+Children and Adolescents, University Hospital Frankfurt, Goethe University Frankfurt, Frankfurt (E.A.-P.) — all in Germany; the Depart￾ment of Medicine, Campbelltown Hospital and Western Sydney University, Sydney (C.H.K.); University of Lille, U1286–INFINITE–
+Institute for Translational Research in Inflammation, F-59000, INSERM, and the Department of Internal Medicine and Clinical Immu￾nology, CHU Lille, National Reference Center for Angioedema (CREAK), Lille (D.L.), and CREAK, Angioedema Center of Reference and 
+Excellence (ACARE), Grenoble Alpes University Hospital, and the Translational Research in Autoimmunity and Inflammation Arm 
+(T-RAIG), French National Center for Scientific Research (CNRS), Grenoble (L.B.) — all in France; Intellia Therapeutics, Cambridge, 
+MA (D.M., J.S.B., M.Y.S., A.G., Y.X., A.M.A., D.L.); and the Department of Immunology, Auckland City Hospital, and the Department 
+of Medicine, University of Auckland — both in Auckland, New Zealand (K.L., H.J.L.).
+References
+1. Maurer M, Magerl M, Betschel S, et al. 
+The international WAO/EAACI guideline 
+for the management of hereditary angio￾edema — the 2021 revision and update. 
+Allergy 2022;77:1961-90.
+2. Busse PJ, Christiansen SC, Riedl MA, 
+et al. US HAEA Medical Advisory Board 
+2020 guidelines for the management of 
+hereditary angioedema. J Allergy Clin 
+Immunol Pract 2021;9(1):132-150.e3.
+3. Zuraw BL. Hereditary angioedema. 
+N Engl J Med 2008;359:1027-36.
+4. Roy J, Vunnam R, Gorrepati VS, 
+Bethards D, McGarrity T. Colonic intus￾susception secondary to hereditary angio￾edema. ACG Case Rep J 2021;8(1):e00498.
+5. Banerji A, Anderson J, Johnston DT. 
+Optimal management of hereditary angio￾edema: shared decision-making. J Asthma 
+Allergy 2021;14:119-25.
+6. Reshef A, Buttgereit T, Betschel SD, et 
+al. Definition, acronyms, nomenclature, 
+and classification of angioedema (DANCE): 
+AAAAI, ACAAI, ACARE, and APAAACI 
+DANCE consensus. J Allergy Clin Immunol 
+2024;154(2):398-411.e1.
+7. Takhzyro (lanadelumab-flyo) prescrib￾ing information. Lexington, MA: Takeda 
+Pharmaceuticals, 2023.
+8. Banerji A, Riedl MA, Bernstein JA, et 
+al. Effect of lanadelumab compared with 
+placebo on prevention of hereditary an￾gioedema attacks: a randomized clinical 
+trial. JAMA 2018;320:2108-21.
+9. Zuraw B, Lumry WR, Johnston DT, et 
+al. Oral once-daily berotralstat for the 
+prevention of hereditary angioedema at￾tacks: a randomized, double-blind, place￾bo-controlled phase 3 trial. J Allergy Clin 
+Immunol 2021;148(1):164-172.e9.
+10. Orladeyo (berotralstat) prescribing in￾formation. Durham, NC: BioCryst Pharma￾ceuticals, 2023.
+11. Cohn DM, Viney NJ, Fijen LM, et al. 
+Antisense inhibition of prekallikrein to 
+control hereditary angioedema. N Engl J 
+Med 2020;383:1242-7.
+12. Fijen LM, Riedl MA, Bordone L, et al. 
+Inhibition of prekallikrein for hereditary an￾gioedema. N Engl J Med 2022;386:1026-33.
+13. Riedl MA, Tachdjian R, Lumry WR, et 
+al. Efficacy and safety of donidalorsen for 
+hereditary angioedema. N Engl J Med 
+2024;391:21-31.
+14. Longhurst H, Cicardi M, Craig T, et al. 
+Prevention of hereditary angioedema at￾tacks with a subcutaneous C1 inhibitor. 
+N Engl J Med 2017;376:1131-40.
+15. Zuraw BL, Busse PJ, White M, et al. 
+Nanofiltered C1 inhibitor concentrate for 
+treatment of hereditary angioedema. N Engl
+J Med 2010;363:513-22.
+16. Mendivil J, DerSarkissian M, Banerji 
+A, et al. A multicenter chart review of pa￾tient characteristics, treatment, and out￾comes in hereditary angioedema: unmet 
+need for more effective long-term pro￾phylaxis. Allergy Asthma Clin Immunol 
+2023;19:48.
+17. Longhurst HJ, Lindsay K, Petersen RS, 
+et al. CRISPR-Cas9 in vivo gene editing of 
+KLKB1 for hereditary angioedema. N Engl 
+J Med 2024;390:432-41.
+18. Rangaswamy C, Mailer RK, Englert 
+H, Konrath S, Renné T. The contact sys￾tem in liver injury. Semin Immunopathol 
+2021;43:507-17.
+19. Longhurst H, Seitzer J, Boiselle C, et 
+al. CRISPR-mediated gene knockout of 
+KLKB1 as a potential single-dose treat￾ment for hereditary angioedema (HAE). 
+Clin Exp Allergy 2022;52(8):O30. abstract 
+(https://doi.org/10.1111/cea.14204).
+20. Walsh K, Cottingham P, Shaw C, et al. 
+CRISPR/Cas9-mediated KLKB1 gene edit￾ing and serum kallikrein reduction by 
+NTLA-2002 remains durable in humanized 
+
+n engl j med nejm.org 11
+CRISPR-Based Therapy for Hereditary Angioedema
+mice following liver regeneration after 
+partial hepatectomy. J Allergy Clin Immu￾nol 2022;149(2):AB169. abstract (https://
+www.jacionline.org/article/S0091
+-6749(21)02383-6/fulltext).
+21. Heinke P, Rost F, Rode J, et al. Diploid 
+hepatocytes drive physiological liver re￾newal in adult humans. Cell Syst 2022;
+13(6):499-507.e12.
+22. National Cancer Institute. Common 
+terminology criteria for adverse events 
+(CTCAE), version 5.0. November 27, 2017 
+(https://ctep.cancer.gov/
+protocolDevelopment/electronic
+_applications/docs/CTCAE_v5_Quick
+_Reference_8.5x11.pdf).
+23. Weller K, Magerl M, Peveling-Oberhag 
+A, Martus P, Staubach P, Maurer M. The 
+Angioedema Quality of Life Question￾naire (AE-QoL) — assessment of sensitivi￾ty to change and minimal clinically impor￾tant difference. Allergy 2016;71:1203-9.
+24. Henao MP, Kraschnewski JL, Kelbel T, 
+Craig TJ. Diagnosis and screening of patients 
+with hereditary angioedema in primary 
+care. Ther Clin Risk Manag 2016;12:701-11.
+Copyright © 2024 Massachusetts Medical Society.
