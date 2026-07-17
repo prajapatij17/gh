@@ -33,9 +33,16 @@ available.
 
 ## Current status
 
-**4 sources loaded** (see `index.md`): the Phase 1 dose-escalation study
+**5 sources loaded** (see `index.md`): the Phase 1 dose-escalation study
 (Longhurst 2024), the Phase 2 randomized study (Cohn 2024) with its supplementary
-appendix, and the pivotal **Phase 3 HAELO** trial (Cohn 2026). The pipeline can
-now produce cited drafts for efficacy, safety, PD/kallikrein, dosing, and trial-
-design questions. Add further publications/posters here and register them in
-`index.md` to extend coverage.
+appendix, the pivotal **Phase 3 HAELO** trial (Cohn 2026), and a **long-term
+durability & safety congress abstract** (Magerl, AAAAI 2025; up to ~2 years of
+follow-up). The pipeline can now produce cited drafts for efficacy, safety,
+durability, PD/kallikrein, dosing, and trial-design questions. Add further
+publications/posters here and register them in `index.md` to extend coverage.
+
+> **Single-product library.** Only lonvo-z sources belong here. Competitor data
+> (e.g. donidalorsen and other products) is deliberately excluded so letters never
+> make non-compliant cross-trial comparisons. Where a source PDF happens to share a
+> page with competitor abstracts (as with AAAAI-2025-061), only the lonvo-z abstract
+> is extracted into `text/` and cited — see the scope note in `index.md`.

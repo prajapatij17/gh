@@ -1,0 +1,44 @@
+061 Long-Term Durability and Safety of Lonvoguran 
+Ziclumeran (Lonvo-z, NTLA-2002) 50mg in 
+Patients With Hereditary Angioedema
+Markus Magerl, MD PhD1
+, Padmalal Gurugama, Consultant2
+, Con￾stance Katelaris, MD PhD FAAAAI3
+, Adele Golden, PhD4
+, Mrinal 
+Shah, PhD4
+, David Maag, PhD4
+, Danny Cohn, MD PhD5
+; 1
+Charit�e-Uni￾versit€atsmedizin Berlin, 2
+Cambridge University Hospitals, NHS Founda￾tion Trust, 3
+Campbelltown Hospital and Western Sydney University, 4
+Intellia Therapeutics, 5
+Amsterdam UMC, University of Amsterdam.
+RATIONALE: Lonvoguran ziclumeran (lonvo-z) is an investigational, 
+CRISPR-based, one-time treatment designed to rebalance the kallikrein￾kinin system in patients with hereditary angioedema (HAE) by perma￾nently editing the KLKB1 gene. Lonvo-z was evaluated in a dose-finding 
+Phase 1/2 study (NCT05120830). After lonvo-z 50mg was identified as 
+the Phase 3 dose, patients who received placebo or lonvo-z 25mg were 
+eligible to receive lonvo-z 50mg. Herein, we describe longer-term dura￾bility/safety among all patients who received lonvo-z 50mg.
+METHODS: Patients (N528) received a single infusion of lonvo-z 50mg 
+(initial dose 50mg, n515; lonvo-z 25mg to 50mg [25-50mg], n57; placebo 
+to lonvo-z 50mg [PBO-50mg], n56). Safety and efficacy outcomes were 
+assessed.
+RESULTS: As of 12Feb2025, median (range) follow-up after receiving 
+lonvo-z 50mg was 18.9 (10.2-24.4), 5.6 (3.8-7.4), and 2.8 (0.5-3.6) months 
+for 50mg, PBO-50mg, and 25-50mg, respectively. Following lonvo-z 
+50mg infusion, the mean (SD) monthly attack rate reduction from baseline 
+to the latest assessment was 95% (13.2) without long-term prophylaxis 
+(LTP). At latest follow-up, 93% (26/28) of patients were attack-free and 
+LTP-free for a median (range) of 10.2 (0.5-24.0) months. The most 
+common adverse events (>_20%) were infusion-related reaction (50%), 
+fatigue (32%), headache (21%), and upper respiratory tract infection 
+(21%), all Grade 1/2 and generally transient. The safety profile for PBO￾50mg and 25-50mg after lonvo-z 50mg was consistent with initial 50mg 
+dose cohort. Updated data will be presented.
+CONCLUSIONS: With up to 2 years of follow-up, a one-time treatment 
+with lonvo-z 50mg led to robust, sustained reductions in HAE attacks 
+without the need for LTP with an acceptable safety profile.
+J ALLERGY CLIN IMMUNOL 
+VOLUME 157, NUMBER 2 
+Abstracts AB21 
+FRIDAY 

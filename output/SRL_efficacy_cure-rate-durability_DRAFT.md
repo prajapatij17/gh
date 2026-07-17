@@ -3,7 +3,7 @@ Medical Information Department
 
 ---
 
-**Document ID:** SRL-2026-0001  **Version:** 0.1 DRAFT
+**Document ID:** SRL-2026-0001  **Version:** 0.2 DRAFT
 **Date:** 17 July 2026
 **Category:** efficacy
 
@@ -49,6 +49,15 @@ patients were attack-free without the use of long-term prophylaxis. [1]
 patients (40%) who received 25 mg and 8 of 11 patients (73%) who received 50 mg
 were attack-free with no additional treatment from Week 1 through Week 16. [2]
 
+**Longer-term, open-label follow-up (congress abstract).** In a longer-term
+analysis of all 28 patients who received lonvo-z 50 mg across the Phase 1/2
+program (including patients who crossed over from placebo or 25 mg), 26 of 28
+patients (93%) were attack-free and free of long-term prophylaxis at the latest
+follow-up, for a median of 10.2 months (range, 0.5 to 24.0); the mean reduction in
+monthly attack rate from baseline to the latest assessment was 95% without
+prophylaxis. These are single-arm, open-label data reported in a congress abstract
+(not a full peer-reviewed manuscript) and are not placebo-controlled. [4]
+
 ### Regarding the duration of available follow-up data
 
 The lonvo-z clinical data span three studies, with the following reported
@@ -60,17 +69,24 @@ follow-up as of each study's data-cutoff date:
   months (range, 4.4 to 11.8) in the 25-mg group and 5.6 months (range, 2.9 to
   11.5) in the 50-mg group. [2]
 - **Phase 1** — as of the 17 February 2023 data cutoff, median follow-up was 13.1
-  months (25-mg group), 9.3 months (75-mg group), and 5.7 months (50-mg group) —
-  the longest follow-up reported in the program to date. Across dose levels, the
-  reductions in total plasma kallikrein levels and in angioedema attacks were
-  durable through the latest assessment. [3]
+  months (25-mg group), 9.3 months (75-mg group), and 5.7 months (50-mg group).
+  Across dose levels, the reductions in total plasma kallikrein levels and in
+  angioedema attacks were durable through the latest assessment. [3]
+- **Longer-term 50-mg analysis (congress abstract)** — in all 28 patients who
+  received lonvo-z 50 mg across the Phase 1/2 program, as of the 12 February 2025
+  data cutoff, the median follow-up after the 50-mg dose was 18.9 months (range,
+  10.2 to 24.4) in the cohort dosed initially at 50 mg — representing **up to
+  approximately 2 years** of follow-up, the longest reported to date. This is a
+  single-arm, open-label abstract analysis. [4]
 
-Longer-term and ongoing follow-up continue to accrue.
+The available data therefore extend to approximately two years of follow-up for
+the earliest-treated 50-mg patients, with shorter follow-up for more recently
+treated patients; longer-term and ongoing follow-up continue to accrue.
 
-> **Data gap identified:** The available lonvo-z source documents do not report
-> durability of effect beyond the follow-up durations noted above. Requests for
-> longer-term durability data are flagged for the Medical Information team for
-> follow-up as additional data become available.
+> **Data gap identified:** The available lonvo-z source documents report follow-up
+> of up to approximately two years; durability beyond this period is not yet
+> established. Requests for longer-term durability data are flagged for the Medical
+> Information team for follow-up as additional data become available.
 
 ## Important safety and fair-balance information
 
@@ -102,6 +118,10 @@ trial, nor as promotion of an unapproved product.
 3. Longhurst HJ, Lindsay K, Petersen RS, et al. CRISPR-Cas9 in vivo gene editing
    of KLKB1 for hereditary angioedema. N Engl J Med. 2024;390(5):432-441. DOI:
    10.1056/NEJMoa2309149. (NCT05120830.)
+4. Magerl M, Gurugama P, Katelaris C, et al. Long-term durability and safety of
+   lonvoguran ziclumeran (lonvo-z, NTLA-2002) 50 mg in patients with hereditary
+   angioedema. J Allergy Clin Immunol. 2025;157(2):AB21. Abstract 061, AAAAI
+   Annual Meeting 2025. (Congress abstract; open-label, single-arm follow-up.)
 
 ---
 
@@ -116,4 +136,4 @@ Medical Information Department
 
 ---
 
-<sub>SRL-2026-0001 · 0.1 DRAFT · **DRAFT — NOT FOR DISTRIBUTION. Pending medical/regulatory review.** · Page [#]</sub>
+<sub>SRL-2026-0001 · 0.2 DRAFT · **DRAFT — NOT FOR DISTRIBUTION. Pending medical/regulatory review.** · Page [#]</sub>
