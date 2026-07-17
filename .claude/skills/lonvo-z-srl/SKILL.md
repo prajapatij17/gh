@@ -127,35 +127,48 @@ If the *entire* question is a gap (e.g. the reference library is empty), the who
 response body is a single data-gap block. Still produce the letter — the scaffold
 plus the gap flag is the correct, useful output.
 
-### Step 5 — Assemble
-Fill `templates/srl_letter_template.md` (the source of truth) by replacing every
-`{{TOKEN}}`:
-- `{{DATE}}` today's date · `{{DOC_ID}}` next `SRL-<year>-NNNN` (see numbering
-  below) · `{{VERSION}}` `0.1 DRAFT`
-- recipient / salutation from Step 1 · `{{CATEGORY}}` from Step 2
-- `{{INQUIRY_RESTATEMENT}}` a one-sentence neutral restatement of the question
-- `{{RESPONSE_BODY}}` from Steps 3–4 · `{{REFERENCES}}` a numbered list mapping
-  cited Source IDs to their full citation from `references/index.md`
-- `{{PREPARER}}` leave as `[MI Preparer name]`
+### Step 5 — Assemble (Medical Information Response format)
+The output is a **"Medical Information Response" document**, not a formal letter —
+no letterhead, salutation, or signature block. Fill
+`templates/mi_response_template.md` (the source of truth) by replacing every
+`{{TOKEN}}`. The document structure is:
 
-Keep all fixed boilerplate (fair-balance, investigational statement, DRAFT
-footer). Do not delete sections.
+1. **Title:** `Medical Information Response` (bold, underlined).
+2. **Subtitle** (italic) = `{{TOPIC_TITLE}}` — a descriptive subject line naming the
+   topic and product, e.g. *"Attack-Free Outcomes and Duration of Follow-Up with
+   Lonvoguran Ziclumeran (Lonvo-Z / NTLA-2002) in Hereditary Angioedema"*.
+3. **Metadata line:** `{{DOC_ID}}` next `SRL-<year>-NNNN` (numbering below) ·
+   `{{VERSION}}` `0.1 DRAFT` · `{{DATE}}` today · `{{CATEGORY}}` from Step 2.
+4. **Summary** — a shaded box opening with the fixed investigational/"cure" caveat,
+   then `{{SUMMARY_BULLETS}}`: 3–6 condensed key-point bullets, each with a
+   superscript citation. This is the at-a-glance answer.
+5. **`{{BODY_SECTIONS}}`** — one `##` section per topic with prose and **inline
+   superscript citation numbers** that map to the References list (do not use
+   `[1]`-style brackets in this format — use superscripts).
+6. Fixed **Important Safety and Fair-Balance Information** and
+   **Investigational-Product Statement** sections.
+7. **`{{REFERENCES}}`** — a numbered list; the numbers must match the superscripts
+   used in the summary and body. Cite full citations from `references/index.md`.
+
+Keep all fixed boilerplate (Summary caveat, fair-balance, investigational
+statement, DRAFT footer). Label evidence tier for abstract/open-label data.
 
 **Document numbering:** scan `output/` and `srl-library/` for existing
 `SRL-<year>-NNNN` IDs and use the next unused number for the current year,
 zero-padded to 4 digits. If none exist, start at `SRL-<year>-0001`.
 
 ### Step 6 — Render
-Use the `docx` skill to render the filled letter to
-`output/SRL_<category>_<slug>_DRAFT.docx`, where `<slug>` is a short kebab-case
-topic. The fastest path is to reuse `templates/srl_letter_template.docx` as the
-layout and substitute token text, or generate with docx-js — either way the
-result must keep the DRAFT footer on every page. Then tell the user the output
-path and summarize: category, whether an approved SRL was reused, sources cited,
-and any data gaps flagged for follow-up.
+Render the filled response to `output/SRL_<category>_<slug>_DRAFT.docx`, where
+`<slug>` is a short kebab-case topic. Use the reusable renderer that produces the
+MI Response layout (titled document, shaded Summary box, superscript citations,
+numbered references, `Page X of Y` footer with the DRAFT banner) — see the docx
+build approach used for prior SRLs — or the `docx` skill directly. The DRAFT footer
+must remain on every page. Then tell the user the output path and summarize:
+category, whether an approved SRL was reused, sources cited, and any data gaps
+flagged for follow-up.
 
 ## After drafting
-- Remind the user the letter is a **DRAFT for medical/regulatory review**.
+- Remind the user the response is a **DRAFT for medical/regulatory review**.
 - If the draft is later approved, it should graduate into `srl-library/` per the
   naming convention there so future matching inquiries reuse it.
 - Never auto-send. If the user asks to send it, confirm they mean to hand it to a
@@ -164,5 +177,5 @@ and any data gaps flagged for follow-up.
 ## Quick reference — repo layout
 - `references/` — approved source documents + `index.md` registry (citation targets)
 - `srl-library/` — approved SRLs, checked first for reuse
-- `templates/srl_letter_template.md` (+ `.docx`) — the letter layout + boilerplate
-- `output/` — generated DRAFT letters
+- `templates/mi_response_template.md` (+ `.docx`) — the MI Response layout + boilerplate
+- `output/` — generated DRAFT responses

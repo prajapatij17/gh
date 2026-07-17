@@ -5,7 +5,8 @@ responses for **Lonvoguran Ziclumeran (Lonvo-Z / NTLA-2002)**, an investigationa
 in-vivo CRISPR/Cas9 gene-editing therapy for Hereditary Angioedema (HAE).
 
 You paste an inbound MI question; the pipeline classifies it, pulls approved
-evidence from a reference library, and produces a **DRAFT** Word letter for a
+evidence from a reference library, and produces a **DRAFT** Medical Information
+Response document (titled response with a shaded Summary box, not a formal letter) for a
 human MI/medical reviewer to check and approve. Manual intake, Lonvo-Z only.
 
 ## How it works
@@ -54,8 +55,8 @@ human MI/medical reviewer to check and approve. Manual intake, Lonvo-Z only.
 - **Evidence-first + traceable.** Every clinical claim cites a specific source in
   `references/index.md`. No source → an explicit **data-gap** flag, never a guess.
 - **Fair balance.** Safety and limitations presented alongside efficacy.
-- **Placeholders, not fabricated identity.** Letterhead, company name, and
-  signatory are placeholders; no invented branding or signatures.
+- **No fabricated identity.** The MI Response is product-focused; no invented
+  company letterhead, branding, or signatory.
 
 ## Layout
 
@@ -64,8 +65,8 @@ human MI/medical reviewer to check and approve. Manual intake, Lonvo-Z only.
 | `.claude/skills/lonvo-z-srl/` | The driver skill — the intake→draft pipeline |
 | `references/` | Approved source documents + `index.md` citation registry |
 | `srl-library/` | Approved SRLs, checked first for reuse |
-| `templates/srl_letter_template.md` | Letter structure + fixed boilerplate (source of truth) |
-| `templates/srl_letter_template.docx` | Word template rendered from the `.md` |
+| `templates/mi_response_template.md` | MI Response structure + fixed boilerplate (source of truth) |
+| `templates/mi_response_template.docx` | Word template rendered from the `.md` |
 | `output/` | Generated DRAFT letters |
 
 ## Related
