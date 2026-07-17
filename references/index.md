@@ -57,10 +57,30 @@ agent — NTLA-2002 (the development code), now named **lonvoguran ziclumeran
   with HAE with C1-inhibitor deficiency, single IV lonvo-z 50 mg (n=52) vs placebo
   (n=28), N=80. Primary endpoint: investigator-confirmed monthly attack rate
   wk 5–28. Median follow-up 7.5 months (range 4.9–12.8) as of 10 Feb 2026.
-- **Efficacy:** LS-mean monthly attack rate 0.26 (95% CI 0.15–0.45) lonvo-z vs
-  2.10 (95% CI 1.55–2.86) placebo; relative difference **−87%** (95% CI −93 to
-  −78; **P<0.001**).
-- **Safety:** infusion-period AEs in 92% (lonvo-z) vs 86% (placebo) through wk 28.
-  Most common AEs more frequent with lonvo-z (>10%): infusion-related reaction,
-  headache, fatigue, back pain, upper respiratory tract infection. **No serious or
-  grade ≥3 AEs** in the lonvo-z group.
+- **Baseline:** median age 41.5 y; 69% female; 92% C1INH type 1 / 8% type 2; 71%
+  on long-term prophylaxis before enrollment; mean baseline attack rate 3.5/month
+  in both groups.
+- **Primary endpoint (attack rate wk 5–28):** LS-mean 0.26 (95% CI 0.15–0.45)
+  lonvo-z vs 2.10 (95% CI 1.55–2.86) placebo; relative difference **−87%**
+  (95% CI −93 to −78; **P<0.001**). Separation emerged within ~4 weeks of infusion.
+- **Key secondary endpoints (all met, all P<0.001):**
+  - Attacks requiring on-demand therapy: 0.19 (0.10–0.36) vs 1.79 (1.27–2.54);
+    **−89%** (95% CI −94 to −79).
+  - Moderate/severe attacks: 0.11 (0.06–0.23) vs 1.23 (0.84–1.81); **−91%**
+    (95% CI −96 to −81).
+  - Attack-free wk 5–28: **32/52 (62%)** lonvo-z vs 3/28 (11%) placebo; odds ratio
+    12.81 (95% CI 3.45–47.55).
+  - AE-QoL change from baseline to wk 28: −23.51 (95% CI −27.64 to −19.38) lonvo-z
+    vs −6.47 (−12.26 to −0.68) placebo; difference −17.04 (95% CI −24.15 to −9.93);
+    exceeds the 6-point minimal clinically important difference (lower = better).
+- **Other endpoints:** ≥90% reduction in monthly attack rate in 39/52 (75%)
+  lonvo-z vs 5/28 (18%) placebo; 60% (31/52) attack-free without long-term
+  prophylaxis through last follow-up.
+- **Safety:** on-treatment AEs in 92% (lonvo-z) vs 86% (placebo) through wk 28.
+  TEAEs >10% in lonvo-z (lonvo-z; placebo): infusion-related reaction (62%; 18%),
+  headache (19%; 11%), fatigue (14%; 11%), nasopharyngitis (14%; 32%), back pain
+  (12%; 11%), upper respiratory tract infection (12%; 7%). **All AEs grade 1–2; no
+  grade ≥3 and no serious AEs in the lonvo-z group.** All infusion-related
+  reactions grade 1–2, related, mostly transient/resolved same day; commonest IRR
+  symptoms headache, flushing, chest pain/tightness. Median lonvo-z infusion time
+  3.9 h (range 2.5–5.3).
