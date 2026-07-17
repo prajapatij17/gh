@@ -3,7 +3,7 @@ Medical Information Department
 
 ---
 
-**Document ID:** SRL-2026-0001  **Version:** 0.2 DRAFT
+**Document ID:** SRL-2026-0001  **Version:** 0.3 DRAFT
 **Date:** 17 July 2026
 **Category:** efficacy
 
@@ -29,59 +29,36 @@ presented in a balanced, non-promotional manner.
 
 Lonvoguran ziclumeran is an investigational therapy, and **"cure" is not an
 endpoint that has been evaluated or established in the lonvo-z clinical
-program.** Accordingly, we are unable to characterize a "cure rate." The clinical
-trials have instead assessed the effect of a single dose of lonvo-z on hereditary
-angioedema attacks, including the proportion of patients who became **attack-free**
-and the **reduction in attack rate**. The most relevant data are summarized below.
+program.** We are therefore unable to characterize a "cure rate." The most
+relevant available measures are the proportion of patients who became
+**attack-free** and the **reduction in attack rate**, reported below from the
+pivotal Phase 3 trial together with longer-term follow-up.
 
-**Attack-free status and attack-rate reduction — Phase 3 HAELO trial.** In the
-pivotal, double-blind Phase 3 HAELO trial (single intravenous dose of lonvo-z
-50 mg [n=52] vs. placebo [n=28]), 32 of 52 patients (62%; 95% CI, 47 to 75) in
-the lonvo-z group were attack-free from Week 5 through Week 28, compared with 3 of
-28 patients (11%; 95% CI, 2 to 28) in the placebo group (odds ratio, 12.81; 95%
-CI, 3.45 to 47.55; P<0.001). Over the same period, the least-squares mean monthly
-attack rate was 0.26 (95% CI, 0.15 to 0.45) with lonvo-z versus 2.10 (95% CI,
-1.55 to 2.86) with placebo — a relative reduction of 87% (95% CI, −93 to −78;
-P<0.001). Through the last follow-up assessment, 60% (31 of 52) of lonvo-z–treated
-patients were attack-free without the use of long-term prophylaxis. [1]
+**Phase 3 HAELO trial (pivotal, placebo-controlled).** In this double-blind
+trial, patients received a single intravenous dose of lonvo-z 50 mg (n=52) or
+placebo (n=28). From Week 5 through Week 28, 32 of 52 patients (62%; 95% CI, 47 to
+75) in the lonvo-z group were attack-free, compared with 3 of 28 patients (11%;
+95% CI, 2 to 28) in the placebo group (odds ratio, 12.81; 95% CI, 3.45 to 47.55;
+P<0.001). The least-squares mean monthly attack rate over the same period was 0.26
+(95% CI, 0.15 to 0.45) with lonvo-z versus 2.10 (95% CI, 1.55 to 2.86) with
+placebo — a relative reduction of 87% (95% CI, −93 to −78; P<0.001). [1]
 
-**Attack-free status — Phase 2 trial.** In the randomized Phase 2 portion, 4 of 10
-patients (40%) who received 25 mg and 8 of 11 patients (73%) who received 50 mg
-were attack-free with no additional treatment from Week 1 through Week 16. [2]
-
-**Longer-term, open-label follow-up (congress abstract).** In a longer-term
-analysis of all 28 patients who received lonvo-z 50 mg across the Phase 1/2
-program (including patients who crossed over from placebo or 25 mg), 26 of 28
-patients (93%) were attack-free and free of long-term prophylaxis at the latest
-follow-up, for a median of 10.2 months (range, 0.5 to 24.0); the mean reduction in
-monthly attack rate from baseline to the latest assessment was 95% without
-prophylaxis. These are single-arm, open-label data reported in a congress abstract
-(not a full peer-reviewed manuscript) and are not placebo-controlled. [4]
+**Longer-term durability (open-label analysis).** Across all 28 patients who
+received lonvo-z 50 mg, 26 of 28 (93%) were attack-free and free of long-term
+prophylaxis at the latest follow-up, for a median of 10.2 months (range, 0.5 to
+24.0), with a mean 95% reduction in monthly attack rate from baseline. These are
+single-arm, open-label data reported in a congress abstract (not a full
+peer-reviewed manuscript) and are not placebo-controlled. [2]
 
 ### Regarding the duration of available follow-up data
 
-The lonvo-z clinical data span three studies, with the following reported
-follow-up as of each study's data-cutoff date:
-
-- **Phase 3 HAELO** — median follow-up 7.5 months (range, 4.9 to 12.8) as of the
-  10 February 2026 data cutoff. [1]
-- **Phase 2** — as of the 4 April 2024 data cutoff, median follow-up was 8.2
-  months (range, 4.4 to 11.8) in the 25-mg group and 5.6 months (range, 2.9 to
-  11.5) in the 50-mg group. [2]
-- **Phase 1** — as of the 17 February 2023 data cutoff, median follow-up was 13.1
-  months (25-mg group), 9.3 months (75-mg group), and 5.7 months (50-mg group).
-  Across dose levels, the reductions in total plasma kallikrein levels and in
-  angioedema attacks were durable through the latest assessment. [3]
-- **Longer-term 50-mg analysis (congress abstract)** — in all 28 patients who
-  received lonvo-z 50 mg across the Phase 1/2 program, as of the 12 February 2025
-  data cutoff, the median follow-up after the 50-mg dose was 18.9 months (range,
-  10.2 to 24.4) in the cohort dosed initially at 50 mg — representing **up to
-  approximately 2 years** of follow-up, the longest reported to date. This is a
-  single-arm, open-label abstract analysis. [4]
-
-The available data therefore extend to approximately two years of follow-up for
-the earliest-treated 50-mg patients, with shorter follow-up for more recently
-treated patients; longer-term and ongoing follow-up continue to accrue.
+The longest available follow-up comes from the open-label analysis of the 28
+patients treated with lonvo-z 50 mg: as of the 12 February 2025 data cutoff, the
+median follow-up after the 50-mg dose was 18.9 months (range, 10.2 to 24.4) in the
+cohort dosed initially at 50 mg — representing **up to approximately 2 years**. [2]
+In the pivotal, placebo-controlled Phase 3 HAELO trial, the median follow-up was
+7.5 months (range, 4.9 to 12.8) as of the 10 February 2026 data cutoff. [1]
+Longer-term and ongoing follow-up continue to accrue.
 
 > **Data gap identified:** The available lonvo-z source documents report follow-up
 > of up to approximately two years; durability beyond this period is not yet
@@ -113,12 +90,7 @@ trial, nor as promotion of an unapproved product.
 1. Cohn DM, Gurugama P, Longhurst HJ, et al. Lonvoguran ziclumeran — in vivo
    CRISPR gene editing in hereditary angioedema. N Engl J Med. 2026. DOI:
    10.1056/NEJMoa2600931. (HAELO trial; NCT06634420.)
-2. Cohn DM, Gurugama P, Magerl M, et al. CRISPR-based therapy for hereditary
-   angioedema. N Engl J Med. 2024. DOI: 10.1056/NEJMoa2405734. (NCT05120830.)
-3. Longhurst HJ, Lindsay K, Petersen RS, et al. CRISPR-Cas9 in vivo gene editing
-   of KLKB1 for hereditary angioedema. N Engl J Med. 2024;390(5):432-441. DOI:
-   10.1056/NEJMoa2309149. (NCT05120830.)
-4. Magerl M, Gurugama P, Katelaris C, et al. Long-term durability and safety of
+2. Magerl M, Gurugama P, Katelaris C, et al. Long-term durability and safety of
    lonvoguran ziclumeran (lonvo-z, NTLA-2002) 50 mg in patients with hereditary
    angioedema. J Allergy Clin Immunol. 2025;157(2):AB21. Abstract 061, AAAAI
    Annual Meeting 2025. (Congress abstract; open-label, single-arm follow-up.)
@@ -136,4 +108,4 @@ Medical Information Department
 
 ---
 
-<sub>SRL-2026-0001 · 0.2 DRAFT · **DRAFT — NOT FOR DISTRIBUTION. Pending medical/regulatory review.** · Page [#]</sub>
+<sub>SRL-2026-0001 · 0.3 DRAFT · **DRAFT — NOT FOR DISTRIBUTION. Pending medical/regulatory review.** · Page [#]</sub>

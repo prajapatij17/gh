@@ -69,6 +69,33 @@ Assign one primary category (this drives the response structure, mirroring
 `general`. If a question spans two, pick the dominant one and address the rest
 within the body.
 
+### Step 2.5 — Select for relevance (most-relevant-only house style)
+Answer the HCP's actual question with the **most relevant, highest-quality
+evidence — not every data point in the library.** Correct is necessary but not
+sufficient; relevance is the bar. Apply this before drafting:
+
+- **Evidence hierarchy.** Prefer the pivotal, placebo-controlled Phase 3 (HAELO,
+  50 mg — the Phase 3 dose) as the primary source for efficacy and safety. Treat
+  small, open-label, dose-finding **Phase 1 (n=10, 25/50/75 mg) and Phase 2
+  (n=27, 25/50 mg) as superseded** for the current product and **omit them by
+  default.**
+- **Relevance to the asker.** The investigational dose is 50 mg; do not report
+  efficacy/safety at other doses (e.g. 25 mg or 75 mg) unless the question is
+  specifically about dose-finding, dose selection, or those earlier studies.
+- **Use lower-tier/older data only where it is the most relevant source for the
+  specific sub-question** — e.g. the long-term 50 mg durability abstract
+  (`AAAAI-2025-061`) is the best source for "how long is the data / durability,"
+  even though it is a congress abstract, because it carries the longest 50 mg
+  follow-up. When you use abstract or open-label data, **label the evidence tier**
+  (single-arm, open-label, congress abstract, not placebo-controlled).
+- **Include Phase 1/2 only when the HCP explicitly asks** about dose-finding,
+  earlier-phase results, or the full development history. They remain in
+  `references/` for exactly those cases — omission is an editorial choice for
+  relevance, never a data gap, so do **not** raise a data-gap flag for data you
+  chose to leave out.
+- Keep the letter focused: lead with the headline answer, then the minimum
+  supporting evidence needed to substantiate it and stay fair-balanced.
+
 ### Step 3 — Retrieve approved content
 1. **Check `srl-library/` first.** If an approved SRL already covers this topic
    (match on the inquiry text / paraphrases recorded in the file), reuse its
